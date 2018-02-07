@@ -48,7 +48,6 @@ hervorgehen, befindet sich im Anhang.
 </i>
 </p>
 
-=======
 <h1 id="quellennachweise">Quellennachweise</h1>
 <sup id="quellen_1">1</sup> <a href="https://twitter.com/Stadt_FFM/status/930424805014278144">Aussage der Stadt Frankfurt auf Twitter vom 14.11.2017</a>, zuletzt gepr&uuml;ft am 07.02.2018 12 Uhr
 <br>
