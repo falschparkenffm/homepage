@@ -7,7 +7,7 @@
 <p>Die Polizei Frankfurt organisiert ihre Abschleppauftr&auml;ge &uuml;ber die <a href="http://www.abschleppdienste-frankfurt.de">Firma Noss</a> <a href="#quellen_1"><sup>1</sup></a>.</p>
 
 <h1>Stadt Frankfurt: Organisation der Abschleppvorg&auml;nge</h1>
-<p>Normalerweise schlie&szlig;t die Stadt Frankfurt Rahmenvertr&auml;ge mit Abschleppunternehmen, die dann von den st&auml;dtischen Beh&ouml;rden bei Bedarf angefordert werden k&ouml;nnen. Durch eine "Verwaltungspanne" <a href="#quellen_2"><sup>2</sup></a> hat die Stadt Frankfurt aktuell keinen g&uuml;ltigen Vertrag mit Abschleppunternehmen und "darf" daher nur eingeschr&auml;nkt abschleppen lassen um Klagen im Hinblick auf das europ&auml;ischen Vergaberechts aus dem Weg zu gehen. <a href="#quellen_2"><sup>2</sup></a> Ob diese Vertr&auml;ge auch f&uuml;r die Schutzpolizei gelten ist unklar.</p>
+<p>Normalerweise schlie&szlig;t die Stadt Frankfurt Rahmenvertr&auml;ge mit Abschleppunternehmen, die dann von den st&auml;dtischen Beh&ouml;rden bei Bedarf angefordert werden k&ouml;nnen. Durch eine "Verwaltungspanne" <a href="#quellen_2"><sup>2</sup></a> hat die Stadt Frankfurt aktuell keinen g&uuml;ltigen Vertrag mit Abschleppunternehmen und "darf" daher nur eingeschr&auml;nkt abschleppen lassen um Klagen im Hinblick auf das europ&auml;ische Vergaberecht aus dem Weg zu gehen. <a href="#quellen_2"><sup>2</sup></a> Ob diese Vertr&auml;ge auch f&uuml;r die Schutzpolizei gelten ist unklar.</p>
 
 <h1 id="quellennachweise">Quellennachweise</h1>
 <sup id="quellen_1">1</sup> <a href="https://twitter.com/Polizei_Ffm/status/936205764066242560">Offizielle Antwort der Polizei Frankfurt auf Twitter</a>, zuletzt gepr&uuml;ft am 07.02.2018 18 Uhr
