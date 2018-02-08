@@ -18,4 +18,7 @@
 </ol>
 <p>Selbstverst&auml;ndlich kann nicht jeder alle der folgenden Punkte bearbeiten, allerdings ist jede Hilfe willkommen! Nur gemeinsam l&auml;sst sich das Problem in den Griff bekommen. Sofern es auf dieser Homepage bereits weiterf&uuml;hrende Informationen zu einem Themenbereich gibt ist die entsprechende Seite verlinkt. Alle weiteren folgen.</p> 
 
+<h1>Danksagungen</h1>
+<p>Ein Dank gilt dem Berliner <a href="https://twitter.com/Poliauwei">Poliauwei</a>, der dort hervorragende Arbeit leistet und viele, auch f&uuml;r Frankfurt relevante, Informationen erarbeitet hat. Diese sind bereits zum Teil in diese Seite eingeflossen, weitere werden folgen. F&uuml;r Berlin gibt es bereits einen deutlich detaillierteren <a href="https://www.autofreies-kreuzberg.de/radwege-frei.html">Leitpfaden zum Thema abschleppen</a>, der eine gewisse Vorbildfunktion hat.</p>
+
 <?php include ("footer.html"); ?>
