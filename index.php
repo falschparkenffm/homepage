@@ -12,7 +12,7 @@
 <ol>
 <li><a href="verkehrsowianzeigen.html">Anzeigen einer Verkehrsordnungswidrigkeit</a></li>
 <li><a href="abschleppen.html">Abschleppen lassen / Informierung der Polizei</a></li>
-<li>&Ouml;ffentlichkeitswirksam Druck aus&uuml;ben</li>
+<li><a href="oeffentlichkeit.html">&Ouml;ffentlichkeitswirksam Druck aus&uuml;ben</a></li>
 <li>Zust&auml;ndige Politiker und Beh&ouml;rdenleiter ansprechen</li>
 <li>Sich Vereinen/Organisationen anschlie&szlig;en und dar&uuml;ber Druck aus&uuml;ben</li>
 </ol>
