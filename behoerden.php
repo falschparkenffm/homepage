@@ -25,7 +25,7 @@ Montag bis Freitag 07:00 - 22:00 Uhr
 Samstag	10:00 - 18:00 Uhr
 </p>
 <p>
-&Uuml;ber den <a href="https://twitter.com/Stadt_FFM">Twitter-Account der Stadt Frankfurt</a> werden auch generelle Anfragen zur st&auml;dtischen Verkehrspolizei beantwortet, zu konkreten Eins&auml;tzen o.&auml;. k&ouml;nnen die Kollegen dort allerdings normalerweise nichts sagen.
+&Uuml;ber den <a href="https://twitter.com/Stadt_FFM">Twitter-Account der Stadt Frankfurt</a> werden auch generelle Anfragen zur st&auml;dtischen Verkehrspolizei beantwortet, zu konkreten Eins&auml;tzen o.&auml;. k&ouml;nnen die KollegInnen dort allerdings normalerweise nichts sagen.
 </p>
 
 <h1 id="stadtpolizei">Stadtpolizei</h1>
