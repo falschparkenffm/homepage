@@ -12,8 +12,9 @@
 <ol>
 <li><a href="verkehrsowianzeigen.html">Anzeigen einer Verkehrsordnungswidrigkeit</a></li>
 <li><a href="abschleppen.html">Abschleppen lassen / Informierung der Polizei</a></li>
-<li><a href="oeffentlichkeit.html">&Ouml;ffentlichkeitswirksam Druck aus&uuml;ben</a></li>
-<li>Zust&auml;ndige Politiker und Beh&ouml;rdenleiter ansprechen</li>
+<li><a href="aufmerksamkeit.html#oeffentlichkeit">&Ouml;ffentlichkeitswirksam Druck aus&uuml;ben</a></li>
+<li><a href="aufmerksamkeit.html#behoerden">Zust&auml;ndige Politiker und Beh&ouml;rdenleiter ansprechen</a></li>
+<li><a href="aufmerksamkeit.html#politik">&Oumlrtliche Politiker ansprechen</a></li>
 <li>Sich Vereinen/Organisationen anschlie&szlig;en und dar&uuml;ber Druck aus&uuml;ben</li>
 </ol>
 <p>Selbstverst&auml;ndlich kann nicht jeder alle der folgenden Punkte bearbeiten, allerdings ist jede Hilfe willkommen! Nur gemeinsam l&auml;sst sich das Problem in den Griff bekommen. Sofern es auf dieser Homepage bereits weiterf&uuml;hrende Informationen zu einem Themenbereich gibt ist die entsprechende Seite verlinkt. Alle weiteren folgen.</p> 
