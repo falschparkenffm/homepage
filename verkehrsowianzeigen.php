@@ -16,7 +16,7 @@
 
 <h1 id="mail_vorlage">E-Mail-Vorlage</h1>
 <p>
-Anstatt des oben verwendeten Direktlinks zum Mail-Programm kann auch folgender Text in eine Mail kopiert und an <i>owi.datenerfassung.amt32@stadt-frankfurt.de</i> werden:
+Anstatt des oben verwendeten Direktlinks zum Mail-Programm kann auch folgender Text in eine Mail kopiert und an <i>owi.datenerfassung.amt32@stadt-frankfurt.de</i> gesendet werden:
 <br>
 <i>
 Tattag: 01.01.2018
