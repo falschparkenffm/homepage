@@ -3,7 +3,7 @@
 </head>
 <?php include ("menu.html"); ?>
 <h1>Wieso abschleppen?</h1>
-<p>Die wirksamste Methode gegen Falschparker lautet "abschleppen", da dies die <b>einzige</b> M&ouml;glichkeit ist um eine Verkerhsbehinderung/-gef&auml;hrdung zu entfernen wenn der Fahrer nicht vor Ort zu ermitteln ist.</p>
+<p>Die wirksamste Methode gegen Falschparker lautet "abschleppen", da dies die <b>einzige</b> M&ouml;glichkeit ist um eine Verkehrsbehinderung/-gef&auml;hrdung zu entfernen wenn der Fahrer nicht vor Ort zu ermitteln ist.</p>
 <p>Au&szlig;erdem gibt es durch die relativ hohen Kosten und dem entstandenen Aufwand oft einen Lerneffekt. Dies wissen auch die Kollegen der verschiedenen Beh&ouml;rden - die Folgen der reichlich verteilten und oft von Fahrern bereits einkalulierten "Kn&ouml;llchen" sp&uuml;rt man in der gesamten Stadt. Hier ist es oftmals g&uuml;nstiger falsch zu parken anstatt ein legales Parkhaus aufzusuchen.</p>
 
 <h1>Wie geht das?</h1>
