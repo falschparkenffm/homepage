@@ -29,7 +29,7 @@ Samstag	10:00 - 18:00 Uhr
 </p>
 
 <h1 id="stadtpolizei">Stadtpolizei</h1>
-Eine Einrichtung des Ordnungsamts der Stadt Frankfurt. Haben mit Verkehr laut eigener Aussage wenig bis nichts zu tun, sind allerdings laut dem offiziellen Aufgabengebiet <a href="#quellen_3"><sup>3</sup></a></p> f&uuml;r die "Beseitigung verkehrswidriger Zust&auml;nde zur akuten Gefahrenabwehr" zust&auml;ndig. Die genaue Abgrenzung der st&auml;dtischen Verkehrspolizei ist daher nicht klar und wird noch gekl&auml;rt.
+Eine Einrichtung des Ordnungsamts der Stadt Frankfurt. Haben mit Verkehr laut eigener Aussage wenig bis nichts zu tun, sind allerdings laut dem offiziellen Aufgabengebiet <a href="#quellen_3"><sup>3</sup></a> f&uuml;r die "Beseitigung verkehrswidriger Zust&auml;nde zur akuten Gefahrenabwehr" zust&auml;ndig. Die genaue Abgrenzung der st&auml;dtischen Verkehrspolizei ist daher nicht klar und wird noch gekl&auml;rt.
 
 <h1 id="strassenverkehrsamt">Stra&szlig;enverkehrsamt</h1>
 Das Stra&szlig;enverkehrsamt hat, unabh&auml;ngig von der unterstellten <a href="#staedtische_verkehrspolizei">St&auml;dtischen Verkehrspolizei</a>, noch weitere Kräfte zur Verkehrs&uuml;berwachung im Einsatz. Diese Personen sind allerdings keine ausgebildeten Hilfspolizisten und k&ouml;nnen daher keine hoheitlichen Aufgaben (bspw. abschleppen) wahrnehmen. Inwiefern sich das Aufgabengebiet dieser MitarbeiterInnen zum Ordnungsamt unterscheidet ist v&ouml;llig unklar.
