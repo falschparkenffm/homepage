@@ -16,6 +16,7 @@
 <li><a href="aufmerksamkeit.html#behoerden">Beh&ouml;rdenleiter ansprechen</a></li>
 <li><a href="aufmerksamkeit.html#politik">Zust&auml;ndige Politiker kontaktieren</a></li>
 <li>Sich Vereinen/Organisationen anschlie&szlig;en und dar&uuml;ber Druck aus&uuml;ben</li>
+<li>Und vor allem: weitersagen!</li>
 </ol>
 <p>Selbstverst&auml;ndlich kann nicht jeder alle der folgenden Punkte bearbeiten, allerdings ist jede Hilfe willkommen! Nur gemeinsam l&auml;sst sich das Problem in den Griff bekommen. Sofern es auf dieser Homepage bereits weiterf&uuml;hrende Informationen zu einem Themenbereich gibt ist die entsprechende Seite verlinkt. Alle weiteren folgen.</p> 
 
