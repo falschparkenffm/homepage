@@ -21,6 +21,10 @@ li {
 	width: 100%;
 }
 
+ol {
+	display: table;
+}
+
 hr {
 width: 100%;
 margin-top: 1em;
