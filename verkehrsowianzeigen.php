@@ -9,7 +9,7 @@
 <ol>
 <li>Foto der Situation machen, auf dem sowohl das Fahrzeug inkl. Kennzeichen und der Weg/Beschilderung zu sehen ist</li>
 <li>Adresse inkl. Hausnummer merken/notieren (das spart sp&auml;ter Arbeit)</li>
-<li>Anzeige bei Polizeirevier der Wahl, <a href="mailto:owi.datenerfassung.amt32@stadt-frankfurt.de?Subject=Anzeige%20einer%20Verkehrsordnungswidrigkeit&amp;Body=Tattag%3A%20%0A%0ATatzeit%3A%20%0A%0ATatort%3A%20%0A%0AKfz-Kennzeichen%3A%20%0A%0Agenauer%20Tatvorwurf%3A%20%0A%0Avollst&auml;ndiger%20Name%20und%20Anschrift%20des%20Anzeigenden%3A%20%0A%0AEin%20Beweisfoto%2C%20aus%20dem%20Kennzeichen%20und%20Tatvorwurf%20erkennbar%20hervorgehen%2C%20befindet%20sich%20im%20Anhang.">direkt per mailto-Link beim Ordnungsamt stellen</a> oder die <a href="#mail_vorlage">Mail-Vorlage</a> nutzen. <a href="#quellen_2"><sup>2</sup></a> <a href="#quellen_3"><sup>3</sup></a></li>
+<li>Anzeige bei Polizeirevier der Wahl, <a href="mailto:owi.datenerfassung.amt32@stadt-frankfurt.de?Subject=Anzeige%20einer%20Verkehrsordnungswidrigkeit&amp;Body=Tattag%3A%20%0A%0ATatzeit%3A%20%0A%0ATatort%3A%20%0A%0AKfz-Kennzeichen%3A%20%0A%0AGenauer%20Tatvorwurf%3A%20%0A%0AVollst&auml;ndiger%20Name%20und%20Anschrift%20des%20Anzeigenden%3A%20%0A%0AEin%20Beweisfoto%2C%20aus%20dem%20Kennzeichen%20und%20Tatvorwurf%20erkennbar%20hervorgehen%2C%20befindet%20sich%20im%20Anhang.">direkt per mailto-Link beim Ordnungsamt stellen</a> oder die <a href="#mail_vorlage">Mail-Vorlage</a> nutzen. <a href="#quellen_2"><sup>2</sup></a> <a href="#quellen_3"><sup>3</sup></a></li>
 <li>Fertig! Alles weitere &uuml;bernimmt die Stadt. Man bekommt generell keinerlei R&uuml;ckmeldung!</li>
 </ol>
 <p>Da die <a href="https://www.wegeheld.org">Wegeheld-App</a> auch (falls gew&uuml;nscht) nur eine E-Mail generiert sollte auch diese Nutzung ohne Probleme funktionieren. Hierbei muss allerdings die korrekte Empf&auml;ngeradresse gepr&uuml;ft werden.</p>
@@ -43,8 +43,7 @@ vollst&auml;ndiger Name und Anschrift des Anzeigenden:<br>
 [PLZ] [Wohnort]<br>
 <br>
 <br>
-Ein Beweisfoto, aus dem Kennzeichen und Tatvorwurf erkennbar
-hervorgehen, befindet sich im Anhang.
+Ein Beweisfoto, aus dem Kennzeichen und Tatvorwurf erkennbar hervorgehen, befindet sich im Anhang.
 </i>
 </p>
 
