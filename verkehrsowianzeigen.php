@@ -9,7 +9,7 @@
 <ol>
 <li>Foto der Situation machen, auf dem sowohl das Fahrzeug inkl. Kennzeichen und der Weg/Beschilderung zu sehen ist</li>
 <li>Adresse inkl. Hausnummer merken/notieren (das spart sp&auml;ter Arbeit)</li>
-<li>Anzeige bei Polizeirevier der Wahl, <a href="mailto:owi.datenerfassung.amt32@stadt-frankfurt.de?Subject=Anzeige%20einer%20Verkehrsordnungswidrigkeit&amp;Body=Tattag%3A%20%0A%0ATatzeit%3A%20%0A%0ATatort%3A%20%0A%0AKfz-Kennzeichen%3A%20%0A%0AGenauer%20Tatvorwurf%3A%20%0A%0AVollst&auml;ndiger%20Name%20und%20Anschrift%20des%20Anzeigenden%3A%20%0A%0AEin%20Beweisfoto%2C%20aus%20dem%20Kennzeichen%20und%20Tatvorwurf%20erkennbar%20hervorgehen%2C%20befindet%20sich%20im%20Anhang.">direkt per mailto-Link beim Ordnungsamt stellen</a> oder die <a href="#mail_vorlage">Mail-Vorlage</a> nutzen. <a href="#quellen_2"><sup>2</sup></a> <a href="#quellen_3"><sup>3</sup></a></li>
+<li>Anzeige bei Polizeirevier der Wahl, <a href="mailto:owi.datenerfassung.amt32@stadt-frankfurt.de?Subject=Anzeige%20einer%20Verkehrsordnungswidrigkeit&amp;Body=Tattag%3A%20%0A%0ATatzeit%3A%20%0A%0ATatort%3A%20%0A%0AKfz-Kennzeichen%3A%20%0A%0AKfz-Farbe%20und%20-Marke%3A%20%0A%0AGenauer%20Tatvorwurf%3A%20Halten/Parken%20auf%20einem%20Radweg/Gehweg%20mit%20Behinderung%20von%20Radfahrern/Fußgängern,%20die%20ausweichen%20mussten.%0A%0AVollst&auml;ndiger%20Name%20und%20Anschrift%20des%20Anzeigenden%3A%0A[Vorname]%20[Nachname]%0A[Strasse]%20[Hausnummer]%0A[PLZ]%20[Wohnort]%0A%0AEin%20Beweisfoto%2C%20aus%20dem%20Kennzeichen%20und%20Tatvorwurf%20erkennbar%20hervorgehen%2C%20befindet%20sich%20im%20Anhang.">direkt per mailto-Link beim Ordnungsamt stellen</a> oder die <a href="#mail_vorlage">Mail-Vorlage</a> nutzen. <a href="#quellen_2"><sup>2</sup></a> <a href="#quellen_3"><sup>3</sup></a></li>
 <li>Fertig! Alles weitere &uuml;bernimmt die Stadt. Man bekommt generell keinerlei R&uuml;ckmeldung!</li>
 </ol>
 <p>Da die <a href="https://www.wegeheld.org">Wegeheld-App</a> auch (falls gew&uuml;nscht) nur eine E-Mail generiert sollte auch diese Nutzung ohne Probleme funktionieren. Hierbei muss allerdings die korrekte Empf&auml;ngeradresse gepr&uuml;ft werden.</p>
@@ -34,7 +34,7 @@ Kfz-Kennzeichen: [Kennzeichen]
 Kfz-Farbe und -Marke: Blauer [Automarke]
 <br>
 <br>
-genauer Tatvorwurf: Halten/Parken auf einem Radweg/Fu&szlig;weg mit Behinderung von Radfahrern/Fu&szlig;g&auml;ngern, die ausweichen mussten.
+genauer Tatvorwurf: Halten/Parken auf einem Radweg/Gehweg mit Behinderung von Radfahrern/Fu&szlig;g&auml;ngern, die ausweichen mussten.
 <br>
 <br>
 vollst&auml;ndiger Name und Anschrift des Anzeigenden:<br>
