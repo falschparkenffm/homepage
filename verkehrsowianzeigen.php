@@ -48,9 +48,9 @@ Ein Beweisfoto, aus dem Kennzeichen und Tatvorwurf erkennbar hervorgehen, befind
 </p>
 
 <h1 id="quellennachweise">Quellennachweise</h1>
-<sup id="quellen_1">1</sup> <a href="https://twitter.com/Stadt_FFM/status/930424805014278144">Aussage der Stadt Frankfurt auf Twitter vom 14.11.2017</a>, zuletzt gepr&uuml;ft am 07.02.2018 12 Uhr
+<sup id="quellen_1">1</sup> <a href="https://twitter.com/Stadt_FFM/status/930424805014278144" target="_blank" rel="noopener">Aussage der Stadt Frankfurt auf Twitter vom 14.11.2017</a>, zuletzt gepr&uuml;ft am 07.02.2018 12 Uhr
 <br>
-<sup id="quellen_2">2</sup> Danke an den ADFC Hamburg f&uuml;r die <a href="https://hamburg.adfc.de/verkehr/maengelmelder/falschparker/">Vorlage</a>
+<sup id="quellen_2">2</sup> Danke an den ADFC Hamburg f&uuml;r die <a href="https://hamburg.adfc.de/verkehr/maengelmelder/falschparker/" target="_blank" rel="noopener">Vorlage</a>
 <br>
-<sup id="quellen_3">3</sup> E-Mail-Adresse aus <a href="https://www.frankfurt.de/sixcms/media.php/1335/32IN15_Verkehrsowi_Anzeige_mit_Merkblatt_Stand_20170217.pdf">diesem Dokument</a> entnommen, zu finden unter <a href="https://www.frankfurt.de/sixcms/detail.php?id=2778&_ffmpar[_id_inhalt]=58114">"Formulare"</a>, zuletzt gepr&uuml;ft am 07.02.2018 12 Uhr
+<sup id="quellen_3">3</sup> E-Mail-Adresse aus <a href="https://www.frankfurt.de/sixcms/media.php/1335/32IN15_Verkehrsowi_Anzeige_mit_Merkblatt_Stand_20170217.pdf" target="_blank" rel="noopener">diesem Dokument</a> entnommen, zu finden unter <a href="https://www.frankfurt.de/sixcms/detail.php?id=2778&_ffmpar[_id_inhalt]=58114">"Formulare"</a>, zuletzt gepr&uuml;ft am 07.02.2018 12 Uhr
 <?php include ("footer.html"); ?>

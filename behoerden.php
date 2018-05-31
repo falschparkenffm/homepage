@@ -35,10 +35,10 @@ Eine Einrichtung des Ordnungsamts der Stadt Frankfurt. Haben mit Verkehr laut ei
 Das Stra&szlig;enverkehrsamt hat, unabh&auml;ngig von der unterstellten <a href="#staedtische_verkehrspolizei">St&auml;dtischen Verkehrspolizei</a>, noch weitere Kräfte zur Verkehrs&uuml;berwachung im Einsatz. Diese Personen sind allerdings keine ausgebildeten Hilfspolizisten und k&ouml;nnen daher keine hoheitlichen Aufgaben (bspw. abschleppen) wahrnehmen. Inwiefern sich das Aufgabengebiet dieser MitarbeiterInnen zum Ordnungsamt unterscheidet ist v&ouml;llig unklar.
 
 <h1 id="quellennachweise">Quellennachweise</h1>
-<sup id="quellen_1">1</sup> <a href="https://twitter.com/Stadt_FFM/status/932568263980208128">Aussage der Stadt Frankfurt auf Twitter</a>, zuletzt gepr&uuml;ft am 07.02.2018 12 Uhr
+<sup id="quellen_1">1</sup> <a href="https://twitter.com/Stadt_FFM/status/932568263980208128" target="_blank" rel="noopener">Aussage der Stadt Frankfurt auf Twitter</a>, zuletzt gepr&uuml;ft am 07.02.2018 12 Uhr
 <br>
-<sup id="quellen_2">2</sup> <a href="https://www.frankfurt.de/sixcms/detail.php?id=1945632&_ffmpar[_id_inhalt]=1945525">Abteilung Verkehrssicherheit, offizielle Homepage der Stadt Frankfurt</a>, zuletzt gepr&uuml;ft am 07.02.2018 22 Uhr
+<sup id="quellen_2">2</sup> <a href="https://www.frankfurt.de/sixcms/detail.php?id=1945632&_ffmpar[_id_inhalt]=1945525" target="_blank" rel="noopener">Abteilung Verkehrssicherheit, offizielle Homepage der Stadt Frankfurt</a>, zuletzt gepr&uuml;ft am 07.02.2018 22 Uhr
 <br>
-<sup id="quellen_3">3</sup> <a href="https://www.frankfurt.de/sixcms/detail.php?id=2948&_ffmpar[_id_inhalt]=6734657">Aufgabengebiete der Stadtpolizei, offizielle Homepage der Stadt Frankfurt</a>, zuletzt gepr&uuml;ft am 30.04.2018 09 Uhr
+<sup id="quellen_3">3</sup> <a href="https://www.frankfurt.de/sixcms/detail.php?id=2948&_ffmpar[_id_inhalt]=6734657" target="_blank" rel="noopener">Aufgabengebiete der Stadtpolizei, offizielle Homepage der Stadt Frankfurt</a>, zuletzt gepr&uuml;ft am 30.04.2018 09 Uhr
 
 <?php include ("footer.html"); ?>
