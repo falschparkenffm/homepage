@@ -9,16 +9,16 @@
 <p>Diese Seite ist ein Gemeinschaftsprojekt, wird laufend aktualisiert und weiter entwickelt um allen genervten B&uuml;rgern einen einfachen Leitfaden f&uuml;r den Kampf gegen Falschparker zu bieten.</p>
 
 <h1>M&ouml;glichkeiten f&uuml;r jedermann</h1>
+<p>Nicht jeder kann alle der Themen bearbeiten, jede Hilfe ist allerdings willkommen! Folgende M&ouml;glichkeiten gibt es sich zu engagieren:</p>
 <ol>
-<li><a href="verkehrsowianzeigen.html">Anzeigen einer Verkehrsordnungswidrigkeit</a></li>
-<li><a href="abschleppen.html">Abschleppen lassen / Informierung der Polizei</a></li>
+<li><a href="aufmerksamkeit.html#politik">Zust&auml;ndige Politiker kontaktieren</a></li>
 <li><a href="aufmerksamkeit.html#oeffentlichkeit">&Ouml;ffentlichkeitswirksam Druck aus&uuml;ben</a></li>
 <li><a href="aufmerksamkeit.html#behoerden">Beh&ouml;rdenleiter ansprechen</a></li>
-<li><a href="aufmerksamkeit.html#politik">Zust&auml;ndige Politiker kontaktieren</a></li>
-<li>Sich Vereinen/Organisationen anschlie&szlig;en und dar&uuml;ber Druck aus&uuml;ben</li>
+<li>Sich Vereinen/Organisationen anschlie&szlig;en und dar&uuml;ber gemeinsam Druck aus&uuml;ben</li>
+<li><a href="abschleppen.html">Abschleppen lassen / Informierung der Polizei</a></li>
+<li><a href="verkehrsowianzeigen.html">Anzeigen einer Verkehrsordnungswidrigkeit</a></li>
 <li>Und vor allem: weitersagen!</li>
 </ol>
-<p>Selbstverst&auml;ndlich kann nicht jeder alle der folgenden Punkte bearbeiten, allerdings ist jede Hilfe willkommen! Nur gemeinsam l&auml;sst sich das Problem in den Griff bekommen. Sofern es auf dieser Homepage bereits weiterf&uuml;hrende Informationen zu einem Themenbereich gibt ist die entsprechende Seite verlinkt. Alle weiteren folgen.</p> 
 
 <h1>Danksagungen</h1>
 <p>Ein Dank gilt dem Berliner <a href="https://twitter.com/Poliauwei">Poliauwei</a>, der dort hervorragende Arbeit leistet und viele, auch f&uuml;r Frankfurt relevante, Informationen erarbeitet hat. Diese sind bereits zum Teil in diese Seite eingeflossen, weitere werden folgen. F&uuml;r Berlin gibt es bereits einen deutlich detaillierteren <a href="https://www.autofreies-kreuzberg.de/radwege-frei.html">Leitfaden zum Thema abschleppen</a>, der eine gewisse Vorbildfunktion hat.</p>
