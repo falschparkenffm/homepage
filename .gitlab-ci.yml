@@ -1,0 +1,24 @@
+---
+
+image: $DOCKER_HUB_URL:$DOCKER_HUB_PORT/$DOCKER_HUB_USER/$DOCKER_IMAGE_NAME:latest
+
+variables:
+  TMP_DIR: "/tmp/build"
+  FILE_LIST: "/tmp/filelist"
+
+stages:
+  - deploy
+
+deploy:
+  stage: deploy
+  script:
+    - mkdir "$TMP_DIR"
+    - find . -type f -name \*.php -exec basename '{}' \; > "$FILE_LIST"
+    - while read file; do echo "Executing PHP file $file"; php $file > "$TMP_DIR"/$(basename -s .php $file).html; done < "$FILE_LIST"
+    - cp -R *.html media css "$TMP_DIR"/
+    - lftp  -u "$FTP_USER","$FTP_PASSWORD" -e "glob -a rm -r /"$FTP_BASE_DIR"/*; exit" "$FTP_HOST" || true  # it will return 1 when there is nothing to delete
+    - cd "$TMP_DIR"
+    - ncftpput -R -v -u "$FTP_USER" -p "$FTP_PASSWORD" "$FTP_HOST" /"$FTP_BASE_DIR" *
+
+  tags:
+    - docker
