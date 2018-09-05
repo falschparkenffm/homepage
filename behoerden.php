@@ -32,7 +32,7 @@ Samstag	10:00 - 18:00 Uhr
 Eine Einrichtung des Ordnungsamts der Stadt Frankfurt. Haben mit Verkehr laut eigener Aussage wenig bis nichts zu tun, sind allerdings laut dem offiziellen Aufgabengebiet <a href="#quellen_3"><sup>3</sup></a> f&uuml;r die "Beseitigung verkehrswidriger Zust&auml;nde zur akuten Gefahrenabwehr" zust&auml;ndig. Die genaue Abgrenzung der st&auml;dtischen Verkehrspolizei ist daher nicht klar und wird noch gekl&auml;rt.
 
 <h1 id="strassenverkehrsamt">Stra&szlig;enverkehrsamt</h1>
-Das Stra&szlig;enverkehrsamt hat, unabh&auml;ngig von der unterstellten <a href="#staedtische_verkehrspolizei">St&auml;dtischen Verkehrspolizei</a>, noch weitere Kräfte zur Verkehrs&uuml;berwachung im Einsatz. Diese Personen sind allerdings keine ausgebildeten Hilfspolizisten und k&ouml;nnen daher keine hoheitlichen Aufgaben (bspw. abschleppen) wahrnehmen. Inwiefern sich das Aufgabengebiet dieser MitarbeiterInnen zum Ordnungsamt unterscheidet ist v&ouml;llig unklar.
+Das Stra&szlig;enverkehrsamt hat, unabh&auml;ngig von der unterstellten <a href="#staedtische_verkehrspolizei">St&auml;dtischen Verkehrspolizei</a>, noch weitere Kr&auml;fte zur Verkehrs&uuml;berwachung im Einsatz. Diese Personen sind allerdings keine ausgebildeten Hilfspolizisten und k&ouml;nnen daher keine hoheitlichen Aufgaben (bspw. abschleppen) wahrnehmen. Inwiefern sich das Aufgabengebiet dieser MitarbeiterInnen zum Ordnungsamt unterscheidet ist v&ouml;llig unklar.
 
 <h1 id="quellennachweise">Quellennachweise</h1>
 <sup id="quellen_1">1</sup> <a href="https://twitter.com/Stadt_FFM/status/932568263980208128" target="_blank" rel="noopener">Aussage der Stadt Frankfurt auf Twitter</a>, zuletzt gepr&uuml;ft am 07.02.2018 12 Uhr
