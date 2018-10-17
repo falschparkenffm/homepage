@@ -9,6 +9,7 @@
 <h1>Wie geht das?</h1>
 <p>In der Theorie ist es ganz einfach: man ruft eine der <a href="behoerden.html">Beh&ouml;rden</a> an, diese r&uuml;cken aus und veranlassen den Abschleppvorgang. Verkehrsbehinderung entfernt, Fall erledigt.</p>
 <p>In der Praxis sieht das leider etwas anders aus. Bis zum Punkt "ausr&uuml;cken" funktioniert es wie oben beschrieben, lediglich der letzte und vor allem entscheidende Schritt wird in aller Regel nicht ausgef&uuml;hrt. Wieso? Die Liste der Ausreden w&uuml;rde den Umfang dieser Seite sprengen.</p>
+<p>Wer vor Ort mit den Polizisten diskutieren m&ouml;chte findet <a href="media/polizei_handout.pdf">hier</a> eine Sammlung von Argumentationshilfen. Das Handout darf gerne an Polzisten und Mitstreiter verteilt werden.</p>
 
 <h1>Wieso soll ich dann anrufen?!</h1>
 <p>Gute Frage. Die Antwort ist simpel: Zu Beginn brauchen die Beh&ouml;rden schlichtweg etwas Druck aus der Bev&ouml;lkerung um sich dem zus&auml;tzlichen Aufwand auszusetzen. Dieser kann sehr einfach z.B. durch telefonische Meldungen von Vekehrsbehinderungen aufgebaut werden.</p>
