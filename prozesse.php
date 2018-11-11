@@ -7,11 +7,24 @@
 <p>Die Polizei Frankfurt organisiert ihre Abschleppauftr&auml;ge &uuml;ber die <a href="http://www.abschleppdienste-frankfurt.de">Firma Noss</a> <a href="#quellen_1"><sup>1</sup></a>.</p>
 
 <h1>Stadt Frankfurt: Organisation der Abschleppvorg&auml;nge</h1>
-<p>Normalerweise schlie&szlig;t die Stadt Frankfurt Rahmenvertr&auml;ge mit Abschleppunternehmen, die dann von den st&auml;dtischen Beh&ouml;rden bei Bedarf angefordert werden k&ouml;nnen. Durch eine "Verwaltungspanne" <a href="#quellen_2"><sup>2</sup></a> hat die Stadt Frankfurt aktuell keinen g&uuml;ltigen Vertrag mit Abschleppunternehmen und "darf" daher nur eingeschr&auml;nkt abschleppen lassen um Klagen im Hinblick auf das europ&auml;ische Vergaberecht aus dem Weg zu gehen. <a href="#quellen_2"><sup>2</sup></a> Ob diese Vertr&auml;ge auch f&uuml;r die Schutzpolizei gelten ist unklar.</p>
+<p>Normalerweise schlie&szlig;t die Stadt Frankfurt Rahmenvertr&auml;ge mit Abschleppunternehmen, die dann von den st&auml;dtischen Beh&ouml;rden bei Bedarf angefordert werden k&ouml;nnen.</p>
+
+<h2>Ablauf der Verwaltungspanne bei Ausschreibung der Abschleppvertr&auml;ge</h2>
+<p>Durch eine "Verwaltungspanne" <a href="#quellen_2"><sup>2</sup></a> hat die Stadt Frankfurt aktuell keinen g&uuml;ltigen Vertrag mit Abschleppunternehmen und "darf" daher nur eingeschr&auml;nkt abschleppen lassen um Klagen im Hinblick auf das europ&auml;ische Vergaberecht aus dem Weg zu gehen. <a href="#quellen_2"><sup>2</sup> <a href="#quellen_3"><sup>3</sup></a> Am 07.03.2018<a href="#quellen_4"><sup>4</sup></a> wurde berichtet, dass ab April 2018 wieder vermehrt abgeschleppt werden solle. Am 11.04.2018 wurde berichtet<a href="#quellen_5"><sup>5</sup></a>, dass nun etwas mehr Abschleppunternehmen beauftragt werden k&ouml;nnen. Die "richtigen" Abschleppvertr&auml;ge sind nach wie vor nicht aktiv. Am 19.10.2018 teilte die Stadtverwaltung mit <a href="#quellen_6"><sup>6</sup></a>, dass man ab dem 05.11.2018 wieder ganz normal abschleppen k&ouml;nne weil die Abschleppvertr&auml;ge ab dann wieder greifen. Bereits am 05.11.2018 gab es einen entsprechenden Bericht <a href="#quellen_7"><sup>7</sup></a>, wonach die angek&uuml;ndigten Vertr&auml;ge doch nicht gelten sollen und es noch einige Wochen dauern kann.</p>
 
 <h1 id="quellennachweise">Quellennachweise</h1>
 <sup id="quellen_1">1</sup> <a href="https://twitter.com/Polizei_Ffm/status/936205764066242560" target="_blank" rel="noopener">Offizielle Antwort der Polizei Frankfurt auf Twitter</a>, zuletzt gepr&uuml;ft am 07.02.2018 18 Uhr
 <br>
-<sup id="quellen_2">2</sup> <a href="http://www.hessenschau.de/wirtschaft/frankfurt-kann-nicht-mehr-alle-falschparker-abschleppen-lassen,abschleppdienste-frankfurt-100.html" target="_blank" rel="noopener">Bericht von hessenschau.de vom  17.01.18</a>, zuletzt gepr&uuml;ft am 08.02.2018 10 Uhr
+<sup id="quellen_2">2</sup> <a href="http://www.hessenschau.de/wirtschaft/frankfurt-kann-nicht-mehr-alle-falschparker-abschleppen-lassen,abschleppdienste-frankfurt-100.html" target="_blank" rel="noopener">Bericht von hessenschau.de vom 17.01.18</a>, zuletzt gepr&uuml;ft am 08.02.2018 10 Uhr
+<br>
+<sup id="quellen_3">3</sup> <a href="https://www.hr.de/presse/radio/hrinfo/2018/wegen-ausschreibung-stadt-frankfurt-laesst-derzeit-weniger-abschleppen-,weniger-abschleppen-in-frankfurt100.html" target="_blank" rel="noopener">Bericht von hr.de vom 17.01.18</a>, zuletzt gepr&uuml;ft am 11.11.2018 14 Uhr
+<br>
+<sup id="quellen_4">4</sup> <a href="http://www.faz.net/aktuell/rhein-main/bald-wieder-mehr-abschleppdienste-auf-frankfurts-pflaster-15481792.html" target="_blank" rel="noopener">Bericht von faz.net vom 07.03.18</a>, zuletzt gepr&uuml;ft am 11.11.2018 14 Uhr
+<br>
+<sup id="quellen_5">5</sup> <a href="https://www.fnp.de/lokales/frankfurt-wird-wieder-mehr-abgeschleppt-10404765.html" target="_blank" rel="noopener">Bericht von fnp.de vom 11.04.18</a>, zuletzt gepr&uuml;ft am 11.11.2018 14 Uhr
+<br>
+<sup id="quellen_6">6</sup> <a href="https://www.hr.de/presse/radio/hrinfo/2018/frankfurt-hat-ab-november-wieder-abschlepp-unternehmen-unter-vertrag-,hr-info-stickoxid-belastung-frankfurt-104.html" target="_blank" rel="noopener">Bericht von hr.de vom 19.10.18</a>, zuletzt gepr&uuml;ft am 11.11.2018 14 Uhr
+<br>
+<sup id="quellen_7">7</sup> <a href="https://www.ffh.de/nachrichten/hessen/rhein-main/toController/Topic/toAction/show/toId/172675/toTopic/weitere-schonzeit-fuer-falschparker-in-frankfurt.html" target="_blank" rel="noopener">Bericht von ffh.de vom 05.11.18</a>, zuletzt gepr&uuml;ft am 11.11.2018 14 Uhr
 
 <?php include ("footer.html"); ?>
