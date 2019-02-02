@@ -52,5 +52,5 @@ Ein Beweisfoto, aus dem Kennzeichen und Tatvorwurf erkennbar hervorgehen, befind
 <br>
 <sup id="quellen_2">2</sup> Danke an den ADFC Hamburg f&uuml;r die <a href="https://hamburg.adfc.de/verkehr/maengelmelder/falschparker/" target="_blank" rel="noopener">Vorlage</a>
 <br>
-<sup id="quellen_3">3</sup> E-Mail-Adresse aus <a href="https://www.frankfurt.de/sixcms/media.php/1335/32IN15_Verkehrsowi_Anzeige_mit_Merkblatt_Stand_20170217.pdf" target="_blank" rel="noopener">diesem Dokument</a> entnommen, zu finden unter <a href="https://www.frankfurt.de/sixcms/detail.php?id=2778&_ffmpar[_id_inhalt]=58114">"Formulare"</a>, zuletzt gepr&uuml;ft am 07.02.2018 12 Uhr
+<sup id="quellen_3">3</sup> E-Mail-Adresse aus <a href="https://www.frankfurt.de/sixcms/media.php/1335/32IN15_Verkehrsowi_Anzeige_mit_Merkblatt_Stand_2019-01-11.pdf" target="_blank" rel="noopener">diesem Dokument</a> entnommen, zu finden unter <a href="https://www.frankfurt.de/sixcms/detail.php?id=2778&_ffmpar[_id_inhalt]=58114">"Formulare"</a>, zuletzt gepr&uuml;ft am 02.02.2019 13 Uhr
 <?php include ("footer.html"); ?>
