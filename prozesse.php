@@ -26,6 +26,7 @@
 <sup id="quellen_6">6</sup> <a href="https://www.hr.de/presse/radio/hrinfo/2018/frankfurt-hat-ab-november-wieder-abschlepp-unternehmen-unter-vertrag-,hr-info-stickoxid-belastung-frankfurt-104.html" target="_blank" rel="noopener">Bericht von hr.de vom 19.10.18</a>, &uuml;ber <a href="https://web.archive.org/web/*/https://www.hr.de/presse/radio/hrinfo/2018/frankfurt-hat-ab-november-wieder-abschlepp-unternehmen-unter-vertrag-,hr-info-stickoxid-belastung-frankfurt-104.html">Web Archive</a>, zuletzt gepr&uuml;ft am 06.03.2019 14 Uhr
 <br>
 <sup id="quellen_7">7</sup> <a href="https://www.ffh.de/nachrichten/hessen/rhein-main/toController/Topic/toAction/show/toId/172675/toTopic/weitere-schonzeit-fuer-falschparker-in-frankfurt.html" target="_blank" rel="noopener">Bericht von ffh.de vom 05.11.18</a>, nicht mehr abrufbar, zuletzt gepr&uuml;ft am 06.03.2019 14 Uhr
+<br>
 <sup id="quellen_8">8</sup> <a href="https://www.fr.de/frankfurt/falschparker-werden-haeufig-nicht-belangt-11826245.html" target="_blank" rel="noopener">Bericht von fr.de vom </a>, &uuml;ber <a href="https://web.archive.org/web/20190306132953/https://www.fr.de/frankfurt/falschparker-werden-haeufig-nicht-belangt-11826245.html">Web Archive</a>, zuletzt gepr&uuml;ft am 06.03.2019 14 Uhr
 
 <?php include ("footer.html"); ?>
