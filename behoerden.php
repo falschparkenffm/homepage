@@ -29,7 +29,7 @@ Samstag	10:00 - 18:00 Uhr
 </p>
 
 <h1 id="stadtpolizei">Stadtpolizei</h1>
-Eine Einrichtung des Ordnungsamts der Stadt Frankfurt. Haben mit Verkehr laut eigener Aussage wenig bis nichts zu tun, sind allerdings laut dem offiziellen Aufgabengebiet <a href="#quellen_3"><sup>3</sup></a> f&uuml;r die "Beseitigung verkehrswidriger Zust&auml;nde zur akuten Gefahrenabwehr" zust&auml;ndig. Die genaue Abgrenzung der st&auml;dtischen Verkehrspolizei ist daher nicht klar und wird noch gekl&auml;rt.
+<p>Geh&ouml;rt zum Ordnungsamt der Stadt Frankfurt. Sowohl Ordnungsamt als auch Stadtpolizei haben mit Falschparkern nichts zu tun, auch wenn sie theoretisch die Befugnis haben. <a href="#quellen_3"><sup>3</sup></a></p>
 
 <h1 id="strassenverkehrsamt">Stra&szlig;enverkehrsamt</h1>
 Das Stra&szlig;enverkehrsamt hat, unabh&auml;ngig von der unterstellten <a href="#staedtische_verkehrspolizei">St&auml;dtischen Verkehrspolizei</a>, noch weitere Kr&auml;fte zur Verkehrs&uuml;berwachung im Einsatz. Diese Personen sind allerdings keine ausgebildeten Hilfspolizisten und k&ouml;nnen daher keine hoheitlichen Aufgaben (bspw. abschleppen) wahrnehmen. Inwiefern sich das Aufgabengebiet dieser MitarbeiterInnen zum Ordnungsamt unterscheidet ist v&ouml;llig unklar.
@@ -39,6 +39,6 @@ Das Stra&szlig;enverkehrsamt hat, unabh&auml;ngig von der unterstellten <a href=
 <br>
 <sup id="quellen_2">2</sup> <a href="https://www.frankfurt.de/sixcms/detail.php?id=1945632&_ffmpar[_id_inhalt]=1945525" target="_blank" rel="noopener">Abteilung Verkehrssicherheit, offizielle Homepage der Stadt Frankfurt</a>, zuletzt gepr&uuml;ft am 07.02.2018 22 Uhr
 <br>
-<sup id="quellen_3">3</sup> <a href="https://www.frankfurt.de/sixcms/detail.php?id=2948&_ffmpar[_id_inhalt]=6734657" target="_blank" rel="noopener">Aufgabengebiete der Stadtpolizei, offizielle Homepage der Stadt Frankfurt</a>, zuletzt gepr&uuml;ft am 30.04.2018 09 Uhr
+<sup id="quellen_3">3</sup> <a href="https://www.fr.de/frankfurt/hoechst-ort904325/hoechst-respektlose-stadtpolizei-12994244.html" target="_blank" rel="noopener">Bericht von fr.de vom 12.09.2019</a>, zuletzt gepr&uuml;ft am 12.09.2019 09 Uhr, &uuml;ber <a href="https://web.archive.org/web/*/https://www.fr.de/frankfurt/hoechst-ort904325/hoechst-respektlose-stadtpolizei-12994244.html">Web Archive</a>
 
 <?php include ("footer.html"); ?>
