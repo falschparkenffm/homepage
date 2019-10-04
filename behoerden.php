@@ -45,6 +45,7 @@ Das Stra&szlig;enverkehrsamt hat, unabh&auml;ngig von der unterstellten <a href=
 <sup id="quellen_2">2</sup> <a href="https://www.frankfurt.de/sixcms/detail.php?id=1945632&_ffmpar[_id_inhalt]=1945525" target="_blank" rel="noopener">Abteilung Verkehrssicherheit, offizielle Homepage der Stadt Frankfurt</a>, zuletzt gepr&uuml;ft am 07.02.2018 22 Uhr
 <br>
 <sup id="quellen_3">3</sup> <a href="https://www.fr.de/frankfurt/hoechst-ort904325/hoechst-respektlose-stadtpolizei-12994244.html" target="_blank" rel="noopener">Bericht von fr.de vom 12.09.2019</a>, zuletzt gepr&uuml;ft am 12.09.2019 09 Uhr, &uuml;ber <a href="https://web.archive.org/web/*/https://www.fr.de/frankfurt/hoechst-ort904325/hoechst-respektlose-stadtpolizei-12994244.html">Web Archive</a>
+<br>
 <sup id="quellen_4">4</sup> <a href="http://starweb.hessen.de/cache/DRS/20/2/00932.pdf" target="_blank" rel="noopener">Antwort des hessischen Innenministeriums auf eine kleine Anfrage vom 20.08.2019</a>, zuletzt gepr&uuml;ft am 04.10.2019 20 Uhr, &uuml;ber <a href="https://web.archive.org/web/*/http://starweb.hessen.de/cache/DRS/20/2/00932.pdf">Web Archive</a>
 
 <?php include ("footer.html"); ?>
