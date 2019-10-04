@@ -2,15 +2,18 @@
 <title>Die Frankfurter Sicherheitsbeh&ouml;rden</title>
 </head>
 <?php include ("menu.html"); ?>
-<h1>Ermittlung Zust&auml;ndigkeiten</h1>
-Die erste Grundregel bei Beh&ouml;rden lautet: Pr&uuml;fe ob du zust&auml;ndig bist! Daher ist es wichtig die in Frankfurt vertretenen Beh&ouml;rden und deren Aufgaben zu kennen - hier gibt es einige Besonderheiten. Nur wer sich an die korrekte Beh&ouml;rde wendet kann etwas bewirken. In den meisten anderen St&auml;dten gibt es nur die Schutzpolizei und das Ordnungsamt, das ist in Frankfurt anders:
+<h1>Ermittlung Zust&auml;ndigkeit</h1>
+In Frankfurt gibt es, im Gegensatz zu den meisten anderen deutschen St&auml;dten, mehrere Beh&ouml;rden, die etwas mit Falschparkern zu tun haben k&ouml;nnten. Wer endlose Weiterleitungen vermeiden m&ouml;chte, sollte sich vorher kurz informieren:
 
 <h1 id="schutzpolizei">Schutzpolizei</h1>
-<p>Meist nur "Polizei" genannt. Ist wie im Rest von Deutschland unabh&auml;ngig von der Stadt und zust&auml;ndig f&uuml;r alles was mit Kriminalit&auml;t und Gefahrenabwehr zu tun hat. Das Stadtgebiet ist in <a href="https://www.polizei.hessen.de/Dienststellen/Polizeipraesidium-Frankfurt/Ueber-uns/Polizeireviere/">19 Reviere</a> unterteilt. Meldungen k&ouml;nnen entweder per Telefon oder direkt vor Ort gemacht werden. Das f&uuml;r eine Adresse zust&auml;ndige Revier kann <a href="https://www.polizei.hessen.de/Dienststellen-Suche/">hier</a> ermittelt werden.</p>
+<p>Meist nur "Polizei" genannt. Ist wie im Rest von Deutschland unabh&auml;ngig von der Stadt und zust&auml;ndig f&uuml;r alles was mit Kriminalit&auml;t und Gefahrenabwehr zu tun hat. Das Stadtgebiet ist in <a href="https://www.polizei.hessen.de/Dienststellen/Polizeipraesidium-Frankfurt/Ueber-uns/Polizeireviere/">19 Reviere</a> unterteilt. Meldungen k&ouml;nnen entweder per Telefon oder direkt vor Ort aufgegeben werden. Das f&uuml;r eine Adresse zust&auml;ndige Revier kann <a href="https://www.polizei.hessen.de/Dienststellen-Suche/">hier</a> ermittelt werden.</p>
 <p>
-Kontaktdaten variieren je nach Revier, im Zweifelsfall 110 w&auml;hlen.
+Die Kontaktdaten variieren je nach Revier, das Schema der Telefonnummer ist immer "069 7551 (Reviernummer mit zwei Ziffern) 00". Bei Gefahr kann auch die zentrale 110 gew&auml;hlt werden: Eine Gefahr besteht regelm&auml;&szlig;ig, wenn ein*e Verkehrsteilnehmer*in von dem vorgesehen Sonderfahrstreifen z.B. auf die Fahrbahn ausweichen muss<a href="#quellen_4"><sup>4</sup></a>.
+<br><br>
+Arbeitszeiten: 365 Tage im Jahr und rund um die Uhr
 <br>
-<a href="https://twitter.com/Polizei_Ffm">Auf Twitter</a>
+<br>
+<a href="https://twitter.com/Polizei_Ffm">Die Landespolizei ist auch auf Twitter vertreten</a>
 </p>
 
 <h1 id="staedtische_verkehrspolizei">St&auml;dtische Verkehrspolizei</h1>
@@ -40,5 +43,6 @@ Das Stra&szlig;enverkehrsamt hat, unabh&auml;ngig von der unterstellten <a href=
 <sup id="quellen_2">2</sup> <a href="https://www.frankfurt.de/sixcms/detail.php?id=1945632&_ffmpar[_id_inhalt]=1945525" target="_blank" rel="noopener">Abteilung Verkehrssicherheit, offizielle Homepage der Stadt Frankfurt</a>, zuletzt gepr&uuml;ft am 07.02.2018 22 Uhr
 <br>
 <sup id="quellen_3">3</sup> <a href="https://www.fr.de/frankfurt/hoechst-ort904325/hoechst-respektlose-stadtpolizei-12994244.html" target="_blank" rel="noopener">Bericht von fr.de vom 12.09.2019</a>, zuletzt gepr&uuml;ft am 12.09.2019 09 Uhr, &uuml;ber <a href="https://web.archive.org/web/*/https://www.fr.de/frankfurt/hoechst-ort904325/hoechst-respektlose-stadtpolizei-12994244.html">Web Archive</a>
+<sup id="quellen_4">4</sup> <a href="http://starweb.hessen.de/cache/DRS/20/2/00932.pdf" target="_blank" rel="noopener">Antwort des hessischen Innenministeriums auf eine kleine Anfrage vom 20.08.2019</a>, zuletzt gepr&uuml;ft am 04.10.2019 20 Uhr, &uuml;ber <a href="https://web.archive.org/web/*/http://starweb.hessen.de/cache/DRS/20/2/00932.pdf">Web Archive</a>
 
 <?php include ("footer.html"); ?>
