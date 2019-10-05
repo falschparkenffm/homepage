@@ -12,7 +12,7 @@
 <p>Wer vor Ort mit den Polizisten diskutieren m&ouml;chte findet <a href="media/polizei_handout.pdf">hier</a> eine Sammlung von Argumentationshilfen. Das Handout darf gerne an Polzisten und Mitstreiter verteilt werden.</p>
 
 <h1>Was sage ich am Telefon?</h1>
-<p>Man teil mit, dass man gerne eine "Verkehrsbehinderung" (wichtiges Wort), ggf. mit "Gef&aauml;hrdung", melden m&ouml;chte. Die Person am anderen Ende wird dann fragen welche Art von Verkehrsbehinderung genau vorliegt und um welchen Ort es geht - nun kann man sagen dass es sich z.B. um einen durch KFZ zugeparkten Radweg, Gehweg o.&auml;. handelt. Manchmal wird man auch noch nach dem Kennzeichen gefragt.</p>
+<p>Man teil mit, dass man gerne eine "Verkehrsbehinderung" (wichtiges Wort), ggf. mit "Gef&auml;hrdung", melden m&ouml;chte. Die Person am anderen Ende wird dann fragen welche Art von Verkehrsbehinderung genau vorliegt und um welchen Ort es geht - nun kann man sagen dass es sich z.B. um einen durch KFZ zugeparkten Radweg, Gehweg o.&auml;. handelt. Manchmal wird man auch noch nach dem Kennzeichen gefragt.</p>
 <p>Das ist einfach, oder? Wer m&ouml;chte kann auch fragen wie lange es circa dauern wird bis jemand vor Ort sein wird. Falls diese Zeit (z.B. bei einer konkreten Gef&auml;hrdung) zu weit in der Zukunft liegt kann man auch zus&auml;tzlich die <a href="behoerden.html#schutzpolizei">Schutzpolizei</a> informieren. Hierbei dann bitte darauf hinweisen, dass man die st&auml;dtische Verkerhspolizei bereits informiert hat - ansonsten geben die Kollegen dort es intern auch nur an die selbe Stelle weiter.</p>
 
 <h1>Wieso soll ich anrufen, wenn sich die Beh&ouml;rden weigern abzuschleppen?</h1>
