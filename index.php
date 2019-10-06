@@ -8,7 +8,7 @@
 <p>Gerade Kinder sind oft im Innenstadtbereich von zugeparkten Kreuzungen betroffen - w&auml;hrend Erwachsene meist &uuml;ber die stehenden KFZ schauen k&ouml;nnen ist dies f&uuml;r Kinder unm&ouml;glich. Hier sind besonders die im Kreuzungsbereich geparkten Fahrzeuge gef&auml;hrlich. Dazu kommen viele Situationen vor Schulen, Kinderg&auml;rten usw., bei denen Eltern die Kinder per Auto bis direkt vor die T&uuml;r bringen und dort nicht selten andere (Kinder) gef&auml;hrden.</p>
 <p>Diese Seite ist ein Gemeinschaftsprojekt, wird laufend aktualisiert und weiter entwickelt um allen genervten B&uuml;rger*innen einen einfachen Leitfaden f&uuml;r den Kampf gegen Falschparker zu bieten.</p>
 
-<h1>M&ouml;glichkeiten f&uuml;r jedermann</h1>
+<h1>M&ouml;glichkeiten f&uuml;r jede*n</h1>
 <p>Nicht jede*r kann alle der Themen bearbeiten, jede Hilfe ist allerdings willkommen! Folgende M&ouml;glichkeiten gibt es sich zu engagieren:</p>
 <ol>
 <li><a href="aufmerksamkeit.html#politik">Zust&auml;ndige Politiker kontaktieren</a></li>
