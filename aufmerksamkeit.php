@@ -17,7 +17,7 @@ Um Beh&ouml;rden und Politik zum Handeln zu bewegen muss das Thema Falschparken 
 <p>
 Selbstverst&auml;ndlich kann und sollte man zus&auml;tzlich auch nicht-&ouml;ffentlich Gespr&auml;che mit den Beh&ouml;rden suchen. Hier bieten sich sowohl das Stra&szlig;enverkehrsamt (-><a href="behoerden.html#staedtische_verkehrspolizei">St&auml;dtische Verkehrspolizei</a>) als auch die Landespolizei an.
 
-Es kann beispielsweise um die h&auml;ufigere Kontrolle an Schwerpunkten gebeten werden. Falls es einmal zu konkreten Problemen mit MitarbeiterInnen kommen sollte k&ouml;nnen bei den einzelnen Beh&ouml;rden formlose Beschwerden sowie Dienstaufsichtsbeschwerden &uuml;ber das konkrete Vorgehen von MitarbeiterInnen eingreicht werden, dies geht an jeder Dienststelle. Hierf&uuml;r sollten Datum, Uhrzeit, Ort, Problem sowie Namen bzw. Dienstnummern der MitarbeiterInnen vorliegen.
+Es kann beispielsweise um die h&auml;ufigere Kontrolle an Schwerpunkten gebeten werden. Falls es einmal zu konkreten Problemen mit Mitarbeiter*innen kommen sollte k&ouml;nnen bei den einzelnen Beh&ouml;rden formlose Beschwerden sowie Dienstaufsichtsbeschwerden &uuml;ber das konkrete Vorgehen von Mitarbeiter*innen eingreicht werden, dies geht an jeder Dienststelle. Hierf&uuml;r sollten Datum, Uhrzeit, Ort, Problem sowie Namen bzw. Dienstnummern der Mitarbeiter*innen vorliegen.
 </p>
 
 <h1 id="politik">Politik</h1>
