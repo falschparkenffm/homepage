@@ -22,10 +22,10 @@ Es kann beispielsweise um die h&auml;ufigere Kontrolle an Schwerpunkten gebeten 
 
 <h1 id="politik">Politik</h1>
 <p>
-Zentrale Entscheidungen, gerade was die Personalplanung bei st&auml;dtischen Beh&ouml;rden angeht, werden auf politischer Ebene getroffen. Daher ist es wichtig auch auf diesem Kanal f&uuml;r das Thema Falschparken ins Bewusststein zu rufen. Dies kann auf folgenden Wegen geschehen:
+Zentrale Entscheidungen, gerade was die Personalplanung bei st&auml;dtischen Beh&ouml;rden angeht, werden auf politischer Ebene getroffen. Daher ist es wichtig auch auf diesem Kanal das Thema Falschparken ins Bewusststein zu rufen. Dies kann auf folgenden Wegen geschehen:
 <ul>
-<li>Kontaktierung der <a href="http://www.frankfurt.de/sixcms/detail.php?id=3467">Ortsbeir&auml;te</a> mit der Bitte f&uuml;r mehr Kontrollen zu sorgen bzw. diese bei der Stadt anzufordern. Einfach eine Mail schicken oder pers&ouml;nlich bei Beginn einer Sitzung in der B&uuml;rgerfragestunde etwas sagen</li>
-<li>Ansprechen der <a href="http://www.stvv.frankfurt.de/stvvorg/P_STVV.htm">Stadtverordneten</a> mit der Bitte die Themen Kontrollen, Finanzierung und Ma&szlig;nahmen auf die Tagesordnung zu bringen oder Anfragen zu diesen diesen Themen zu stellen</li>
+<li>Kontaktieren der <a href="http://www.frankfurt.de/sixcms/detail.php?id=3467">Ortsbeir&auml;te</a> mit der Bitte f&uuml;r mehr Kontrollen zu sorgen bzw. diese bei der Stadt anzufordern. Einfach eine Mail schicken oder pers&ouml;nlich bei Beginn einer Sitzung in der B&uuml;rgerfragestunde etwas sagen</li>
+<li>Ansprechen der <a href="http://www.stvv.frankfurt.de/stvvorg/P_STVV.htm">Stadtverordneten</a> mit der Bitte die Themen Kontrollen, Finanzierung und Ma&szlig;nahmen auf die Tagesordnung zu bringen oder Anfragen zu diesen Themen zu stellen</li>
 </ul>
 </p>
 
