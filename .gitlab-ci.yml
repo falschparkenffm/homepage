@@ -18,7 +18,7 @@ deploy:
     - cp -R *.html media css "$TMP_DIR"/
     - lftp  -u "$FTP_USER","$FTP_PASSWORD" -e "glob -a rm -r /"$FTP_BASE_DIR"/*; exit" "$FTP_HOST" || true  # it will return 1 when there is nothing to delete
     - cd "$TMP_DIR"
-    - ncftpput -R -v -u "$FTP_USER" -p "$FTP_PASSWORD" "$FTP_HOST" /"$FTP_BASE_DIR" *
+    - ncftpput -R -V -u "$FTP_USER" -p "$FTP_PASSWORD" "$FTP_HOST" /"$FTP_BASE_DIR" *
 
   tags:
     - docker
