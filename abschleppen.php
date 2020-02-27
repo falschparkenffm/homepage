@@ -6,7 +6,14 @@
 <p>Die wirksamste Methode gegen Falschparker ist "abschleppen", weil <b>nur</b> so eine Verkehrsbehinderung/-gef&auml;hrdung <b>beseitigt</b> wird.</p>
 
 <h1>Was kann ich tun? Wie geht das?</h1>
-<p>Ruf die Polizei (siehe <a href="behoerden.html">Beh&ouml;rden</a>) an und melde eine "Verkehrsbehinderung" (wichtiges Wort), ggf. mit "Gef&auml;hrdung". Die Person am anderen Ende wird dann fragen welche Art von Verkehrsbehinderung genau vorliegt und um welchen Ort es geht. Jetzt kann man sagen, dass es sich z.B. um einen durch KFZ zugeparkten Radweg, Gehweg o.&auml;. handelt. Manchmal wird man auch gebeten das Kennzeichen zu nennen, sofern man noch in der Nähe ist. Es wird eine Polizeistreife geschickt, dabei muss man <b>nicht</b> vor Ort warten. Der Falschparker sollte dann durch die Polizei abgeschleppt werden. Dabei hast du keinerlei Risiko! Nat&uuml;rlich kann und darf man sich den Einsatz auch angucken und (freundlich!) mit den Polizist*innen ins Gespr&auml;ch kommen.</p>
+<p><ol>
+<li>Ruf die Polizei (--> <a href="behoerden.html">Beh&ouml;rden</a>) an und melde eine "Verkehrsbehinderung" (wichtiges Wort), ggf. mit "Gef&auml;hrdung"</li>
+<li>Beantworte die R&uuml;ckfragen (welche Art von Verkehrsbehinderung, Ort, etc.)</li>
+<li>Erw&auml;hne jetzt, dass es sich z.B. um einen durch KFZ zugeparkten Radweg, Gehweg o.&auml;. handelt</li>
+<li>Es wird eine Polizeistreife geschickt, dabei muss man <b>nicht</b> vor Ort warten</li>
+<li>Der Falschparker sollte dann durch die Polizei abgeschleppt werden. Dabei hast du keinerlei Risiko, dir k&ouml;nnen keine Kosten entstehen!</li>
+<li>Nat&uuml;rlich kann und darf man sich den Einsatz auch angucken und (freundlich!) mit den Polizist*innen ins Gespr&auml;ch kommen</li>
+<ol></p>
 
 <h1>Was tun bei Problemen?</h1>
 <p>Wichtig: ruhig und sachlich bleiben! Falls sich die Polizei z.B. weigert Falschparker abzuschleppen, mache bitte folgendes: schreibe dir Datum, Uhrzeit, Ort und im Idealfall die Namen oder das Autokennzeichen der Polizist*innen auf und mache ein paar aussagekr&auml;ftige Fotos. Schreibe au&szlig;erdem genau auf wieso angeblich nicht abgeschleppt werden k&ouml;nnte. Lass uns die Daten am besten &uuml;ber <a href="https://www.twitter.com/FalschparkenFFM">Twitter</a> zukommen, wir k&uuml;mmern uns dann um die Nachbereitung des Einsatzes.</p>

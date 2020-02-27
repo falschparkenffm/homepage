@@ -2,8 +2,8 @@
 <title>Anzeigen einer Verkehrsordnungswidrigkeit</title>
 </head>
 <?php include ("menu.html"); ?>
-<p>Jede Person kann eine "Vekehrsordnungswidrigkeitsanzeige" stellen, ob man selbst behindert wurde oder nicht ist dabei egal. Die Anzeigen k&ouml;nnen auch per formloser E-Mail gestellt werden. Die Verwendung des offiziellen PDF-Formulars<a href="#quellen_3"><sup>3</sup></a> ist nicht mehr notwendig. <a href="#quellen_1"><sup>1</sup></a></p>
-<p>Aufgrund der geringen Bu&szlig;gelder bringen diese Anzeigen, wenn &uuml;berhaupt, nur etwas wenn viele Leute mitmachen! Falls m&ouml;glich ist das <a href="abschleppen.html">Abschleppen</a> unbedingt vorzuziehen, da nur hiermit die Behinderung/Gef&auml;hrdung beseitig wird.</p>
+<p>Jede Person kann eine "Vekehrsordnungswidrigkeitsanzeige" stellen, ob man selbst behindert wurde oder nicht ist dabei egal. Die Anzeigen k&ouml;nnen per formloser E-Mail gestellt werden. Die Verwendung des offiziellen PDF-Formulars<a href="#quellen_3"><sup>3</sup></a> ist nicht mehr notwendig. <a href="#quellen_1"><sup>1</sup></a></p>
+<p>Falls m&ouml;glich ist das <a href="abschleppen.html">Abschleppen</a> unbedingt vorzuziehen, da nur hiermit die Behinderung/Gef&auml;hrdung beseitig wird.</p>
 <p>Es ist f&uuml;r den Angezeigten m&ouml;glich die Anschrift des Anzeigenden &uuml;ber die Akteneinsicht zu erfahren. Es ist allerdings ausreichend eine ladungsf&auml;hige Adresse anzugeben, also z.B. die des Arbeitgebers. Man sollte bei R&uuml;ckfragen unter der Adresse erreichbar sein, es muss aber nicht die Adresse der eigenen Wohnung sein!</p>
 
 <h1>Notwendige Schritte</h1>
