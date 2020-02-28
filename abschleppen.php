@@ -13,7 +13,7 @@
 <li>Es wird eine Polizeistreife geschickt, dabei muss man <b>nicht</b> vor Ort warten</li>
 <li>Der Falschparker sollte dann durch die Polizei abgeschleppt werden. Dabei hast du keinerlei Risiko, dir k&ouml;nnen keine Kosten entstehen!</li>
 <li>Nat&uuml;rlich kann und darf man sich den Einsatz auch angucken und (freundlich!) mit den Polizist*innen ins Gespr&auml;ch kommen</li>
-<ol></p>
+</ol></p>
 
 <h1>Was tun bei Problemen?</h1>
 <p>Wichtig: ruhig und sachlich bleiben! Falls sich die Polizei z.B. weigert Falschparker abzuschleppen, mache bitte folgendes: schreibe dir Datum, Uhrzeit, Ort und im Idealfall die Namen oder das Autokennzeichen der Polizist*innen auf und mache ein paar aussagekr&auml;ftige Fotos. Schreibe au&szlig;erdem genau auf wieso angeblich nicht abgeschleppt werden k&ouml;nnte. Lass uns die Daten am besten &uuml;ber <a href="https://www.twitter.com/FalschparkenFFM">Twitter</a> zukommen, wir k&uuml;mmern uns dann um die Nachbereitung des Einsatzes.</p>
