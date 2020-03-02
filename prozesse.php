@@ -29,7 +29,7 @@
 <br>
 <sup id="quellen_8">8</sup> <a href="https://www.fr.de/frankfurt/falschparker-werden-haeufig-nicht-belangt-11826245.html" target="_blank" rel="noopener">Bericht von fr.de vom 06.03.19</a>, &uuml;ber <a href="https://web.archive.org/web/20190306132953/https://www.fr.de/frankfurt/falschparker-werden-haeufig-nicht-belangt-11826245.html">Web Archive</a>, zuletzt gepr&uuml;ft am 06.03.2019 14 Uhr
 <br>
-<sup id="quellen_9">9</sup> <a href="https://frankfurt.de/sixcms/detail.php?id=8440&_ffmpar[_id_inhalt]=35421125" target="_blank" rel="noopener">Pressemitteilung der Stadt Frankfurt vom 29.04.2019</a>, &uuml;ber <a href="https://web.archive.org/web/*/https://frankfurt.de/sixcms/detail.php?id=8440&_ffmpar[_id_inhalt]=35421125">Web Archive</a>, zuletzt gepr&uuml;ft am 30.04.2019 23 Uhr
+<sup id="quellen_9">9</sup> <a href="https://frankfurt.de/sixcms/detail.php?id=8440&_ffmpar[_id_inhalt]=35421125" target="_blank" rel="noopener">Pressemitteilung der Stadt Frankfurt vom 29.04.2019</a>, nur noch &uuml;ber <a href="https://web.archive.org/web/*/https://frankfurt.de/sixcms/detail.php?id=8440&_ffmpar[_id_inhalt]=35421125">Web Archive</a> abrufbar, zuletzt gepr&uuml;ft am 02.03.2020 10 Uhr
 <br>
 <sup id="quellen_10">10</sup> <a href="https://www.fr.de/frankfurt/frankfurt-mehr-anzeigen-gegen-falschparker-zr-13055099.html" target="_blank" rel="noopener">Bericht von fr.de vom 01.10.2019</a>, &uuml;ber <a href="https://web.archive.org/web/*/https://www.fr.de/frankfurt/frankfurt-mehr-anzeigen-gegen-falschparker-zr-13055099.html">Web Archive</a>, zuletzt gepr&uuml;ft am 04.10.2019 20 Uhr
 <br>
