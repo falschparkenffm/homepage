@@ -24,7 +24,7 @@ Es kann beispielsweise um die h&auml;ufigere Kontrolle an Schwerpunkten gebeten 
 <p>
 Die Rahmen für Personalplanung etc. werden auf politischer Ebene getroffen. Daher ist es wichtig auch auf diesem Kanal das Thema Falschparken ins Bewusststein zu rufen. Folgende Möglichkeiten gibt es:
 <ul>
-<li>Kontaktieren der <a href="http://www.frankfurt.de/sixcms/detail.php?id=3467">Ortsbeir&auml;te</a> mit der Bitte f&uuml;r mehr Kontrollen zu sorgen bzw. diese bei der Stadt anzufordern. Einfach eine Mail schicken oder pers&ouml;nlich bei Beginn einer Sitzung in der B&uuml;rgerfragestunde melden</li>
+<li>Kontaktieren der <a href="https://frankfurt.de/service-und-rathaus/stadtpolitik/ortsbeiraete">Ortsbeir&auml;te</a> mit der Bitte f&uuml;r mehr Kontrollen zu sorgen bzw. diese bei der Stadt anzufordern. Einfach eine Mail schicken oder pers&ouml;nlich bei Beginn einer Sitzung in der B&uuml;rgerfragestunde melden</li>
 <li>Ansprechen der <a href="http://www.stvv.frankfurt.de/stvvorg/P_STVV.htm">Stadtverordneten</a> mit der Bitte die Themen Kontrollen, Finanzierung und Ma&szlig;nahmen auf die Tagesordnung zu bringen oder Anfragen zu diesen Themen zu stellen</li>
 </ul>
 </p>

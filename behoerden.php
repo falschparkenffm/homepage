@@ -42,7 +42,7 @@ Das Stra&szlig;enverkehrsamt hat, unabh&auml;ngig von der unterstellten <a href=
 <h1 id="quellennachweise">Quellennachweise</h1>
 <sup id="quellen_1">1</sup> <a href="https://twitter.com/Stadt_FFM/status/932568263980208128" target="_blank" rel="noopener">Aussage der Stadt Frankfurt auf Twitter</a>, zuletzt gepr&uuml;ft am 07.02.2018 12 Uhr
 <br>
-<sup id="quellen_2">2</sup> <a href="https://www.frankfurt.de/sixcms/detail.php?id=1945632&_ffmpar[_id_inhalt]=1945525" target="_blank" rel="noopener">Abteilung Verkehrssicherheit, offizielle Homepage der Stadt Frankfurt</a>, zuletzt gepr&uuml;ft am 07.02.2018 22 Uhr
+<sup id="quellen_2">2</sup> <a href="https://frankfurt.de/themen/verkehr/verkehrssicherheit/staedtische-verkehrspolizei-allgm" target="_blank" rel="noopener">Abteilung Verkehrssicherheit, offizielle Homepage der Stadt Frankfurt</a>, zuletzt gepr&uuml;ft am 02.03.2020 10 Uhr
 <br>
 <sup id="quellen_3">3</sup> <a href="https://www.fr.de/frankfurt/hoechst-ort904325/hoechst-respektlose-stadtpolizei-12994244.html" target="_blank" rel="noopener">Bericht von fr.de vom 12.09.2019</a>, zuletzt gepr&uuml;ft am 12.09.2019 09 Uhr, &uuml;ber <a href="https://web.archive.org/web/*/https://www.fr.de/frankfurt/hoechst-ort904325/hoechst-respektlose-stadtpolizei-12994244.html">Web Archive</a>
 <br>
