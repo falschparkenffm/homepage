@@ -19,4 +19,8 @@
 <p>Wichtig: ruhig und sachlich bleiben! Falls sich die Polizei z.B. weigert Falschparker abzuschleppen, mache bitte folgendes: schreibe dir Datum, Uhrzeit, Ort und im Idealfall die Namen oder das Autokennzeichen der Polizist*innen auf und mache ein paar aussagekr&auml;ftige Fotos. Schreibe au&szlig;erdem genau auf wieso angeblich nicht abgeschleppt werden k&ouml;nnte. Lass uns die Daten am besten &uuml;ber <a href="https://www.twitter.com/FalschparkenFFM">Twitter</a> zukommen, wir k&uuml;mmern uns dann um die Nachbereitung des Einsatzes.</p>
 <p>Alternativ kannst du auch vor Ort in die Diskussion mit der Polizei gehen, daf&uuml;r haben wir extra eine <a href="media/polizei_handout.pdf">hier</a> eine Sammlung an Argumentationshilfen. Das Dokument kann gerne an die Polizei oder Mitstreiter*innen verteilt werden! Melde dich anschlie&szlig;end bitte unbedingt auch bei uns und teile deine Erlebnisse.</p>
 
+<h1 id="schrottfahrzeuge">Sonderfall: (abgemeldete) Schrottfahrzeuge</h1>
+<p>Auch bei solchen Fahrzeugen auf legalen Parkpl&auml;tzen kann genauso die Polizei wie &uuml;blich gerufen werden. Danach beginnt jedoch ein etwas anderer und l&auml;ngerer Prozess, der <a href="https://www.stvv.frankfurt.de/download/ST_977_2020.pdf">hier</a> genauer erkl&auml;rt wird.</p>
+<p>Wichtig: sofern von dem Fahrzeug eine Behinderung/Gef&auml;hrdung f&uuml;r Dritte ausgeht, muss <b>sofort</b> gehandelt werden. Dabei spielt es keine Rolle, ob es scheinbar angemeldet ist oder nicht.</p>
+
 <?php include ("footer.html"); ?>
