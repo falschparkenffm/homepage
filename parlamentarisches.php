@@ -46,6 +46,13 @@
 <strong>Themen:</strong> Details zur verz&ouml;gerten Vergabe der st&auml;dtischen Abschleppdienstleistungen an private Unternehmen
 </ol></p>
 
+<h1>Sonstige Anfragen</h1>
+<p>
+<ol>
+<li>Private Anfrage &uuml;ber fragdenstaat.de zu Richtlinien f&uuml;r Regelf&auml;lle des Abschleppens und Restgehwegbreite in Frankfurt. Fehlende Kontrollen in Randgebieten werden mit dem "gesellschaftlichen Konsens" zum Parken auf Gehwegen und mangelndem Personal gerechtfertigt, die Restgehwegbreite bleibt offen.<a href="#quellen_10"><sup>10</sup></a></li>
+</ol>
+</p>
+
 <h1 id="quellennachweise">Quellennachweise</h1>
 <sup id="quellen_1">1</sup> <a href="http://starweb.hessen.de/cache/DRS/20/2/00932.pdf" target="_blank" rel="noopener">Kleine Anfrage im hessischen Landtag zu den Zust&auml;ndigkeiten der verschiedenen Beh&ouml;rden</a>, &uuml;ber <a href="https://web.archive.org/web/20191004184617/http://starweb.hessen.de/cache/DRS/20/2/00932.pdf">Web Archive</a>, zuletzt gepr&uuml;ft am 27.06.2020 20 Uhr
 <br>
@@ -72,6 +79,9 @@
 <br>
 
 <sup id="quellen_9">9</sup> <a href="https://www.stvv.frankfurt.de/PARLISLINK/DDW?W=DOK_NAME=%27B_314_2019%27" target="_blank" rel="noopener">Bericht B 314/2019 des Magistrats zur Anfrage der DIE LINKE.-Fraktion</a>, &uuml;ber <a href="https://web.archive.org/web/20200627201307/https://www.stvv.frankfurt.de/PARLISLINK/DDW?W=DOK_NAME=%27B_314_2019%27">Web Archive</a>, zuletzt gepr&uuml;ft am 27.06.2020 21 Uhr
+<br>
+
+<sup id="quellen_10">10</sup> <a href="https://fragdenstaat.de/anfrage/abschleppen-und-umsetzen-von-kraftfahrzeugen-gehwegrestbreite" target="_blank" rel="noopener">Private Anfrage &uuml;ber fragdenstaat.de zu Richtlinien f&uuml;r Regelf&auml;lle des Abschleppens und Restgehwegbreite</a>, &uuml;ber <a href="https://fragdenstaat.de/anfrage/abschleppen-und-umsetzen-von-kraftfahrzeugen-gehwegrestbreite">Web Archive</a>, zuletzt gepr&uuml;ft am 12.07.2020 11 Uhr
 <br>
 
 <?php include ("footer.html"); ?>
