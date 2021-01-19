@@ -10,7 +10,7 @@
 <p><ol>
 <li>Kleine Anfrage "Falschparker und unklare Zuständigkeiten zwischen Hilfspolizei und Landespolizei" der DIE LINKE-Fraktion vom 20.08.2019<a href="#quellen_1"><sup>1</sup></a>
 <br>
-<strong>Themen:</strong> Grunds&auml;tzliches Gefahrenpotential von Falschparkern, Zusta&uml;ndigkeiten zwischen Beh&ouml;rden, "Regelf&auml;lle" f&uuml;r Umgang mit Falschparkern, Nutzung des Notrufs</li>
+<strong>Themen:</strong> Grunds&auml;tzliches Gefahrenpotential von Falschparkern, Zust&auml;ndigkeiten zwischen Beh&ouml;rden, "Regelf&auml;lle" f&uuml;r Umgang mit Falschparkern, Nutzung des Notrufs</li>
 <br>
 
 <li>Kleine Anfrage "Falschparker und Abschleppvorgänge durch die Landespolizei" der DIE LINKE-Fraktion vom 20.08.2019<a href="#quellen_2"><sup>2</sup></a>
@@ -24,7 +24,7 @@
 <p><ol>
 <li>Bericht des Magistrats vom 18.11.2019 auf eine Anfrage der DIE LINKE.-Fraktion ("Wie viele wurden abgeschleppt?")<a href="#quellen_4"><sup>4</sup></a>
 <br>
-<strong>Themen:</strong> Zahlen der privaten Ordnungswidrigkeitsanzeigen 2015-2018 inkl. Bearbeitungszeiten, verj&auml;hrte Privatanzeigen, Anzahl sta&uml;dtische Abschleppvorg&auml;nge 2015-2018</li>
+<strong>Themen:</strong> Zahlen der privaten Ordnungswidrigkeitsanzeigen 2015-2018 inkl. Bearbeitungszeiten, verj&auml;hrte Privatanzeigen, Anzahl st&auml;dtische Abschleppvorg&auml;nge 2015-2018</li>
 <br>
 
 <li>Stellungnahme des Magistrats vom 15.05.2020 zur Anfrage des Ortsbeirats 5 ("Verkehrsordnungswidrigkeiten besser verfolgen")<a href="#quellen_5"><sup>5</sup></a></li>
