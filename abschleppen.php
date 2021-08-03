@@ -20,7 +20,7 @@
 <p>Alternativ kannst du auch vor Ort in die Diskussion mit der Polizei gehen, daf&uuml;r haben wir extra eine <a href="media/polizei_handout.pdf">hier</a> eine Sammlung an Argumentationshilfen. Das Dokument kann gerne an die Polizei oder Mitstreiter*innen verteilt werden! Melde dich anschlie&szlig;end bitte unbedingt auch bei uns und teile deine Erlebnisse.</p>
 
 <h1 id="schrottfahrzeuge">Sonderfall: (abgemeldete) Schrottfahrzeuge</h1>
-<p>Auch bei solchen Fahrzeugen auf legalen Parkpl&auml;tzen kann genauso die Polizei wie &uuml;blich gerufen werden. Danach beginnt jedoch ein etwas anderer und l&auml;ngerer Prozess, der <a href="https://www.stvv.frankfurt.de/download/ST_977_2020.pdf">hier</a> genauer erkl&auml;rt wird.</p>
+<p>Auch bei solchen Fahrzeugen auf legalen Parkpl&auml;tzen kann genauso die Polizei wie &uuml;blich gerufen werden. Danach beginnt jedoch ein etwas anderer und l&auml;ngerer Prozess, der <a href="https://www.stvv.frankfurt.de/download/ST_977_2020.pdf">hier</a> und <a href="https://www.fnp.de/frankfurt/wenn-autowracks-parkplaetze-blockieren-90898294.html">hier</a> genauer erkl&auml;rt wird.</p>
 <p>Wichtig: sofern von dem Fahrzeug eine Behinderung/Gef&auml;hrdung f&uuml;r Dritte ausgeht, muss <b>sofort</b> gehandelt werden. Dabei spielt es keine Rolle, ob es scheinbar angemeldet ist oder nicht.</p>
 
 <?php include ("footer.html"); ?>
