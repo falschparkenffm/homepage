@@ -42,6 +42,9 @@ Wir unterstützen und beraten parteiübergreifend rund um das Thema Falschparker
 7.  Bericht des Magistrats zur Anfrage der FRANKFURTER-Fraktion ("Erlaubtes Gehwegparken in Frankfurt")[<sup>11</sup>](#parla_anfragen_quellen_11)  
     **Themen:** Details zum angeordneten Gehwegparkens und zur notwendigen Restbreite bei Gehwegen in Frankfurt
 
+8.  Bericht des Magistrats zur Anfrage der FRAKTION ("Anzahl von Ordnungswidrigkeitsanzeigen zu Falschparkern 2019 bis 2021"[<sup>12</sup>](#parla_anfragen_quellen_12)  
+    **Themen:** Anzahl der privaten und städtischen Ordnungswidrigkeiten, Datenqualität bei Privatanzeigen, Quote der verjährten Anzeigen, Einstellungsquoten
+
 <a href="#parla_anfragen_sonstige"><h3 id=parla_anfragen_sonstige>Sonstige Anfragen</h3></a>
 
 1.  Private Anfrage über fragdenstaat.de zu Richtlinien für Regelfälle des Abschleppens und Restgehwegbreite in Frankfurt. Fehlende Kontrollen in Randgebieten werden mit dem "gesellschaftlichen Konsens" zum Parken auf Gehwegen und mangelndem Personal gerechtfertigt, die Restgehwegbreite bleibt offen.[<sup>10</sup>](#parla_anfragen_quellen_10)
@@ -69,3 +72,5 @@ Wir unterstützen und beraten parteiübergreifend rund um das Thema Falschparker
 <sup id="parla_anfragen_quellen_10">10</sup> [Private Anfrage über fragdenstaat.de zu Richtlinien für Regelfälle des Abschleppens und Restgehwegbreite](https://fragdenstaat.de/anfrage/abschleppen-und-umsetzen-von-kraftfahrzeugen-gehwegrestbreite), über [Web Archive](https://fragdenstaat.de/anfrage/abschleppen-und-umsetzen-von-kraftfahrzeugen-gehwegrestbreite), zuletzt geprüft am 12.07.2020 11 Uhr
 
 <sup id="parla_anfragen_quellen_11">11</sup> [Bericht B 220/2020 des Magistrats zur Anfrage der FRANKFURTER-Fraktion](https://www.stvv.frankfurt.de/PARLISLINK/DDW?W=DOK_NAME=%27B_228_2020%27), über [Web Archive](https://web.archive.org/web/*/https://www.stvv.frankfurt.de/PARLISLINK/DDW?W=DOK_NAME%3D'B_228_2020'), zuletzt geprüft am 26.07.2020 19 Uhr
+
+<sup id="parla_anfragen_quellen_12">12</sup> [Bericht B 182/2022 des Magistrats zur Anfrage der FRAKTION](https://www.stvv.frankfurt.de/PARLISLINK/DDW?W=DOK_NAME=%27B_182_2022%27), über [Web Archive](https://web.archive.org/web/*/https://web.archive.org/web/*/https://www.stvv.frankfurt.de/PARLISLINK/DDW?W=DOK_NAME='B_182_2022'), zuletzt geprüft am 02.10.2022 15 Uhr
