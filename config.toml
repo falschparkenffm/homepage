@@ -1,0 +1,49 @@
+baseURL = "https://falschparken-frankfurt.info"
+
+# This is a "one page"-website, so we do not need these kinds of pages...
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+defaultContentLanguage = "de "
+
+# The name of this wonderful theme ;-).
+theme = "hugo-scroll"
+
+# The "title" of your website
+title = "Falschparken Frankfurt"
+
+[params]
+    # A "copyright"-line to be added at the bottom of the page.
+    # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
+    copyright = '''
+Ausgeliefert ohne Cookies, PHP, Datenbank, Tracking-Tools oder sonstige externe Inhalte.  
+[![Creative Commons License](images/by-sa40.png)](https://creativecommons.org/licenses/by-sa/4.0/)  
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).'''
+
+    # The "description" of your website. This is used in the meta data of your generated html.
+    description = "Falscharker behindern und gefährden andere Menschen. Wir zeigen was man dagegen unternehmen kann!"
+
+    # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+    #favicon = "images/favicon.png"
+
+    # These "images" are used for the structured data templates. This will show up, when
+    # services like Twitter or Slack want to generate a preview of a link to your site.
+    # See https://gohugo.io/templates/internal#twitter-cards and
+    # https://gohugo.io/templates/internal#open-graph.
+    images = ["images/cover-image.jpg"]
+
+    # Another "title" :-). This one is used as the site_name on the Hugo's internal
+    # opengraph structured data template.
+    # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+    title = "Falschparken Frankfurt"
+
+    # This theme will, by default, inject a design-by-line at the bottom of the page.
+    # You can turn it off, but we would really appreciate if you don’t :-)
+    hidedesignbyline = true
+
+    [params.meta]
+        keywords = "Falschparker, falschparken, Frankfurt am Main, Frankfurt, Polizei, abschleppen, Abschleppgruppe, Anzeigen, Verkehrsbehinderung"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
