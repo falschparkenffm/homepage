@@ -3,19 +3,14 @@
 image: $DOCKER_HUB_URL:$DOCKER_HUB_PORT/$DOCKER_HUB_USER/$DOCKER_IMAGE_NAME:latest
 
 stages:
-  - build
   - deploy
 
 build:
-  stage: build
+  stage: deploy
   script:
     - git submodule update --init --recursive
     - wget -q -O- $(curl -s https://api.github.com/repos/gohugoio/hugo/releases | grep "browser_download_url"|grep -E "hugo_extended_.*linux-amd64.tar.gz"|head -n1 |awk '{ print $2 }' |sed 's%"%%g') | tar -zxf- -C .
     - ./hugo
-
-deploy:
-  stage: deploy
-  script:
     - lftp  -u "$FTP_USER","$FTP_PASSWORD" -e "set ssl:verify-certificate no; glob -a rm -r "$FTP_BASE_DIR"*; exit" "$FTP_HOST" || true  # it will return 1 when there is nothing to delete
     - cd "public"
     - ncftpput -R -V -u "$FTP_USER" -p "$FTP_PASSWORD" "$FTP_HOST" /"$FTP_BASE_DIR" *
