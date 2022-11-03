@@ -11,12 +11,12 @@ Die wirksamste Methode gegen Falschparker ist "Abschleppen", weil **nur** so ein
 
 ### Was kann ich tun? Wie geht das?
 
-1.  Ruf die Polizei (--> [Behörden](#behörden)) an und melde eine "Verkehrsbehinderung" (wichtiges Wort), ggf. mit "Gefährdung"
-2.  Beantworte die Rückfragen (welche Art von Verkehrsbehinderung, Ort, etc.)
-3.  Erwähne jetzt, dass es sich z.B. um einen durch KFZ zugeparkten Radweg, Gehweg o.ä. handelt
-4.  Es wird eine Polizeistreife geschickt, dabei muss man **nicht** vor Ort warten
-5.  Der Falschparker sollte dann durch die Polizei abgeschleppt werden. Dabei hast du keinerlei Risiko, dir können keine Kosten entstehen!
-6.  Natürlich kann und darf man sich den Einsatz auch angucken und (freundlich!) mit den Polizist:innen ins Gespräch kommen
+1.  Ruf die Polizei (--> [Behörden](#behörden)) an und sage folgendes: "Hallo, ich möchte eine Verkehrsbehinderung" (wichtiges Wort) melden."
+2.  Beantworte die Rückfragen (welche Art von Verkehrsbehinderung, Ort, etc.) - erwähne jetzt, dass es sich z.B. um einen durch KFZ zugeparkten Radweg, Gehweg o.ä. handelt
+3.  Es wird eine Polizeistreife geschickt, dabei muss man **nicht** vor Ort warten
+4.  Der Falschparker sollte dann durch die Polizei abgeschleppt werden. Dabei hast du keinerlei Risiko, dir können keine Kosten entstehen!
+5.  Natürlich kann und darf man sich den Einsatz auch angucken und (freundlich!) mit den Polizist:innen ins Gespräch kommen und sich bei ihnen für die Arbeit bedanken
+6.  Viele Polizist:innen freuen sich auch, wenn man sich als Anrufer:in zu erkennen gibt und man sie bei unübersichtlichen Stellen durch Winken zum Falschparker lotst
 
 <a href="#abschleppen_probleme"><h3 id=abschleppen_probleme>Was tun bei Problemen?</h3></a>
 
