@@ -20,7 +20,7 @@ Ausgeliefert ohne Cookies, PHP, Datenbank, Tracking-Tools oder sonstige externe 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).'''
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Falscharker behindern und gefährden andere Menschen. Wir zeigen was man dagegen unternehmen kann!"
+    description = "Falschparker behindern und gefährden andere Menschen. Wir zeigen was man dagegen unternehmen kann!"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     #favicon = "images/favicon.png"
