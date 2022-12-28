@@ -13,7 +13,7 @@ Es ist für die angezeigte Person möglich, die Anschrift des Anzeigenden über 
 
 ### Notwendige Schritte
 
-1.  Foto der Situation machen, auf dem sowohl das Fahrzeug inkl. Kennzeichen und der Weg/Beschilderung zu sehen ist
+1.  Fotos der Situation machen, auf denen sowohl das Fahrzeug inkl. Kennzeichen und der Weg/Beschilderung zu sehen ist (idealerweise den Falschparker von vorne+hinten)
 2.  Adresse inkl. Hausnummer merken/notieren (das spart später Arbeit)
 3.  Tatbestand herausfinden (Halten auf Radweg, Parken auf Gehweg; idealerweise unter Angabe der Tatbestandsnummer, die man [hier](https://www.kba.de/DE/Themen/ZentraleRegister/FAER/BT_KAT_OWI/btkat_node.html) finden kann)
 4.  Anzeige bei Polizeirevier der Wahl, [{{<icon class="fa fa-envelope">}}direkt per mailto-Link beim Ordnungsamt stellen](mailto:owi.datenerfassung.amt32@stadt-frankfurt.de?Subject=Anzeige%20einer%20Verkehrsordnungswidrigkeit&Body=Tattag%3A%20[DD.MM.YYYY]%0A%0ATatzeit%3A%20[HH:MM]%0A%0ATatort%3A%20[Strasse]%20[Hausnummer]%0A%0AKfz-Kennzeichen%3A%20[Kennzeichen]%0A%0AKfz-Farbe%20und%20-Marke%3A%20[Farbe]%20[Automarke]%0A%0AGenauer%20Tatvorwurf%3A%20Halten/Parken%20auf%20einem%20Radweg/Gehweg%20mit%20Behinderung%20von%20Radfahrern/Fußgängern,%20die%20ausweichen%20mussten.%0A%0AVollständiger%20Name%20und%20Anschrift%20des%20Anzeigenden%3A%0A[Vorname]%20[Nachname]%0A[Strasse]%20[Hausnummer]%0A[PLZ]%20[Wohnort]%0A%0AEin%20Beweisfoto%2C%20aus%20dem%20Kennzeichen%20und%20Tatvorwurf%20erkennbar%20hervorgehen%2C%20befindet%20sich%20im%20Anhang.) oder die [Mail-Vorlage](#mail_vorlage) nutzen. [<sup>2</sup>](#privatanzeige_quellen_2) [<sup>3</sup>](#privatanzeige_quellen_3)
