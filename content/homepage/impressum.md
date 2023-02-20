@@ -21,7 +21,7 @@ Gemeinnützige Anerkennung: Finanzamt Frankfurt AZ 452505922
 Umsatzsteuer-ID: DE220564610
 
 Verantwortlich gemäß § 6 MStV:  
-Susanne Neumann und Ansgar Hegerfeld  
+Susanne Neumann und Klaus Schmidt-Montfort  
 (Adresse und Kontakt wie oben)
 
 Bankverbindung  
