@@ -19,6 +19,8 @@ Die Polizei Frankfurt organisiert ihre Abschleppaufträge über die [Firma Noss]
 
 Normalerweise schließt die Stadt Frankfurt Rahmenverträge mit Abschleppunternehmen, die dann von den städtischen Behörden bei Bedarf angefordert werden können. Durch die [Verwaltungspanne bei der Ausschreibung der Abschleppverträge](#ausschreibung_abschleppvertraege) müssen aktuell die Abschleppfirmen im Rotationsverfahren einzeln beauftragt werden. [<sup>10</sup>](#hintergrund_quellen_10) [<sup>11</sup>](#hintergrund_quellen_11). Zukünftig soll es eine "ausgelagerte Zentrale" geben, die die städtischen Abschleppaufträge zentral verwaltet[<sup>11</sup>](#hintergrund_quellen_11). Wer diese "ausgelagerte Zentrale" betreibt oder wann sie den Betrieb aufnehmen soll, ist noch offen.
 
+Änderung seit dem 13.03.2023: die Stadt Frankfurt hat inzwischen wieder Abschleppverträge mit mehreren Abschleppunternehmen geschlossen[<sup>12</sup>](#hintergrund_quellen_12), die Falschparker werden jetzt wieder auf die Firmengelände und nicht mehr die öffentlichen Parkplätze abgeschleppt.
+
 ### Quellennachweise
 
 <sup id="hintergrund_quellen_1">1</sup> [Offizielle Antwort der Polizei Frankfurt auf Twitter](https://twitter.com/Polizei_Ffm/status/936205764066242560), über [Web Archive](https://web.archive.org/web/20190306133219/https:/twitter.com/Polizei_Ffm/status/936205764066242560), zuletzt geprüft am 06.03.2019 14 Uhr
@@ -42,3 +44,5 @@ Normalerweise schließt die Stadt Frankfurt Rahmenverträge mit Abschleppunterne
 <sup id="hintergrund_quellen_10">10</sup> [Bericht von fr.de vom 01.10.2019](https://www.fr.de/frankfurt/frankfurt-mehr-anzeigen-gegen-falschparker-zr-13055099.html), über [Web Archive](https://web.archive.org/web/*/https://www.fr.de/frankfurt/frankfurt-mehr-anzeigen-gegen-falschparker-zr-13055099.html), zuletzt geprüft am 04.10.2019 20 Uhr
 
 <sup id="hintergrund_quellen_11">11</sup> [Magistratsbericht B 314/2019](https://www.stvv.frankfurt.de/download/B_314_2019.pdf), über [Web Archive](https://web.archive.org/web/*/https://www.stvv.frankfurt.de/download/B_314_2019.pdf), zuletzt geprüft am 04.10.2019 20 Uhr
+
+<sup id="hintergrund_quellen_12">12</sup> [Bericht von fr.de vom 01.04.2023](https://www.fr.de/frankfurt/neue-regeln-fuer-abschleppdienste-in-frankfurt-92184957.html), über [Web Archive](https://web.archive.org/web/*/https://www.fr.de/frankfurt/neue-regeln-fuer-abschleppdienste-in-frankfurt-92184957.html), zuletzt geprüft am 12.04.2023 8 Uhr
