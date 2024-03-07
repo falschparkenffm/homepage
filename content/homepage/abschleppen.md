@@ -20,7 +20,7 @@ Die wirksamste Methode gegen Falschparker ist "Abschleppen", weil **nur** so ein
 
 <a href="#abschleppen_probleme"><h3 id=abschleppen_probleme>Was tun bei Problemen?</h3></a>
 
-Wichtig: ruhig und sachlich bleiben! Falls sich die Polizei z.B. weigert Falschparker abzuschleppen, mache bitte folgendes: schreibe dir Datum, Uhrzeit, Ort und im Idealfall die Namen oder das Autokennzeichen der Polizist:innen auf und mache ein paar aussagekräftige Fotos. Schreibe außerdem genau auf, wieso angeblich nicht abgeschleppt werden könnte. Lass uns die Daten am besten über [{{<icon class="fa fa-twitter">}}Twitter](https://www.twitter.com/FalschparkenFFM) zukommen, wir kümmern uns dann um die Nachbereitung des Einsatzes.
+Wichtig: ruhig und sachlich bleiben! Falls sich die Polizei z.B. weigert Falschparker abzuschleppen, mache bitte folgendes: schreibe dir Datum, Uhrzeit, Ort und im Idealfall die Namen oder das Autokennzeichen der Polizist:innen auf und mache ein paar aussagekräftige Fotos. Schreibe außerdem genau auf, wieso angeblich nicht abgeschleppt werden könnte. Lass uns die Daten am besten über <a rel="me" href="https://hessen.social/@FalschparkenFFM">{{<icon class="fa fa-mastodon">}} Mastodon</a> zukommen, wir kümmern uns dann um die Nachbereitung des Einsatzes.
 
 Alternativ kannst du auch vor Ort in die Diskussion mit der Polizei gehen, dafür haben wir extra eine [Argumentationshilfe](#argumentationshilfe) zusammengestellt. Das Dokument kann gerne an die Polizei oder Mitstreiter:innen verteilt werden! Melde dich anschließend bitte auch bei uns und teile deine Erlebnisse.
 
