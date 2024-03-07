@@ -19,7 +19,7 @@ Die Polizei Frankfurt organisiert ihre Abschleppaufträge über die [Firma Noss]
 
 Normalerweise schließt die Stadt Frankfurt Rahmenverträge mit Abschleppunternehmen, die dann von den städtischen Behörden bei Bedarf angefordert werden können. Durch die [Verwaltungspanne bei der Ausschreibung der Abschleppverträge](#ausschreibung_abschleppvertraege) müssen aktuell die Abschleppfirmen im Rotationsverfahren einzeln beauftragt werden. [<sup>10</sup>](#hintergrund_quellen_10) [<sup>11</sup>](#hintergrund_quellen_11). Zukünftig soll es eine "ausgelagerte Zentrale" geben, die die städtischen Abschleppaufträge zentral verwaltet[<sup>11</sup>](#hintergrund_quellen_11). Wer diese "ausgelagerte Zentrale" betreibt oder wann sie den Betrieb aufnehmen soll, ist noch offen.
 
-Änderung seit dem 13.03.2023: die Stadt Frankfurt hat inzwischen wieder Abschleppverträge mit mehreren Abschleppunternehmen geschlossen[<sup>12</sup>](#hintergrund_quellen_12), die Falschparker werden jetzt wieder auf die Firmengelände und nicht mehr die öffentlichen Parkplätze abgeschleppt.
+Änderung seit dem 13.03.2023: die Stadt Frankfurt hat inzwischen wieder Abschleppverträge mit mehreren Abschleppunternehmen geschlossen[<sup>12</sup>](#hintergrund_quellen_12), die Falschparker werden jetzt wieder auf die Firmengelände und nicht mehr auf öffentliche Parkplätze abgeschleppt.
 
 ### Quellennachweise
 
