@@ -30,7 +30,7 @@ Gerne wird seitens der Polizei darauf verwiesen, dass zwingend eine konkrete Beh
 „Die anderen standen doch auch schon da“ – die beliebteste Ausrede von Falschparkern. Dabei hat die Polizei von Anfang an die rechtliche Möglichkeit, beim ersten Fahrzeug einzugreifen, um den Nachahmereffekt zu unterbinden. Wird die Masse an Falschparkern erst zu groß, heißt es sonst gerne sinngemäß „die können wir nicht alle abschleppen, das dauert viel zu lange“:
 > Das Abschleppen eines auf dem Gehweg im Bereich eines absoluten Haltverbots während längerer Zeit (hier knapp 2 Stunden) parkenden Kraftfahrzeugs ist mit dem Grundsatz der Verhältnismäßigkeit regelmäßig bereits dann vereinbar, wenn von dem verbotswidrigen Verhalten eine negative Vorbildwirkung für andere Kraftfahrer ausgehen kann.
 
---- *Beschluss des BverwG, AZ BVerwG 7 B 179.89, https://www.jurion.de/urteile/bverwg/1989-12-20/bverwg-7-b-17989/*
+--- *Beschluss des BverwG, AZ BVerwG 7 B 179.89, https://research.wolterskluwer-online.de/document/604520e6-deda-4e39-b086-bce38ba5854e*
 
 ### Polizist:innen haften angeblich persönlich für Abschleppmaßnahmen
 Einige Polizist:innen haben Angst, persönlich für eine Abschleppmaßnahme bezahlen zu müssen, sollte sich der/die Halter:in rechtlich wehren.
