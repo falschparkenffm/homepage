@@ -10,19 +10,19 @@ Herausgeber gemäß § 5 Telemediengesetz (TMG):
 Falschparken Frankfurt c/o  
 Allgemeiner Deutscher Fahrrad-Club Frankfurt am Main e.V.  
 gesetzlich vertreten durch den Vorstand  
-Fichardstraße 46  
-60322 Frankfurt a.M.  
-Telefon: 069 – 94 41 01 96  
-Telefax: 0322 – 268 493 20  
+Bachmannstr. 2 – 4  
+60488 Frankfurt am Main  
+Telefon: 069 9441 0196  
+Telefax: 069 9441 0193  
 E-Mail: kontakt@adfc-frankfurt.de
 
 Vereinsregister Frankfurt am Main, Reg.Nr.: VR 11665  
-Gemeinnützige Anerkennung: Finanzamt Frankfurt AZ 452505922  
+Anerkennung der Gemeinnützigkeit: Finanzamt Frankfurt Steuernummer 45 250 22973  
 Umsatzsteuer-ID: DE220564610
 
 Verantwortlich gemäß § 6 MStV:  
 Susanne Neumann und Klaus Schmidt-Montfort  
-(Adresse und Kontakt wie oben)
+(beide Mitglied des Vorstands, Adresse und Kontakt wie oben)
 
 Bankverbindung  
 Frankfurter Volksbank eG  
