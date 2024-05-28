@@ -12,9 +12,9 @@ Allgemeiner Deutscher Fahrrad-Club Frankfurt am Main e.V.
 gesetzlich vertreten durch den Vorstand  
 Bachmannstr. 2 – 4  
 60488 Frankfurt am Main  
-Telefon: 069 9441 0196  
+Telefon: 069 9441 0196 (keine Auskunft zu abgeschleppten Fahrzeugen, dafür bitte die Polizei kontaktieren)  
 Telefax: 069 9441 0193  
-E-Mail: kontakt@adfc-frankfurt.de
+E-Mail: kontakt@adfc-frankfurt.de (keine Auskunft zu abgeschleppten Fahrzeugen, dafür bitte die Polizei kontaktieren)
 
 Vereinsregister Frankfurt am Main, Reg.Nr.: VR 11665  
 Anerkennung der Gemeinnützigkeit: Finanzamt Frankfurt Steuernummer 45 250 22973  
