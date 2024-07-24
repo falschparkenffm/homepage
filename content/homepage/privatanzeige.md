@@ -5,11 +5,11 @@ header_menu: true
 ---
 [{{<icon class="fa fa-arrow-circle-o-up">}}Nach oben](#top)
 
-Jede Person kann eine "Verkehrsordnungswidrigkeitsanzeige" stellen, ob man selbst behindert wurde oder nicht, ist dabei egal. Es ist erlaubt, für diesen Zweck Fotos von falsch abgestellten Fahrzeugen zu machen - dies wurde gerichtlich bestätigt [<sup>4</sup>](#privatanzeige_quellen_4). Die Anzeigen können dann entweder über das Formular der Stadt Frankfurt[<sup>1</sup>](#privatanzeige_quellen_1) [<sup>2</sup>](#privatanzeige_quellen_2), per formloser E-Mail oder auch über das Angebot von [weg.li](https://www.weg.li/) gestellt werden. 
+Jede Person kann eine "Verkehrsordnungswidrigkeitsanzeige" stellen. Ob man selbst behindert wurde oder nicht, ist dabei egal. Es ist erlaubt, für diesen Zweck Fotos von falsch abgestellten Fahrzeugen zu machen - dies wurde gerichtlich bestätigt [<sup>4</sup>](#privatanzeige_quellen_4). Die Anzeigen können dann entweder über das Formular der Stadt Frankfurt[<sup>1</sup>](#privatanzeige_quellen_1) [<sup>2</sup>](#privatanzeige_quellen_2), per formloser E-Mail oder auch über das Angebot von [weg.li](https://www.weg.li/) gestellt werden. 
 
 Falls möglich ist das [Abschleppen](#abschleppen) unbedingt vorzuziehen, da nur hiermit die Behinderung/Gefährdung beseitig wird.
 
-Es ist für die angezeigte Person möglich, die Anschrift des Anzeigenden über die Akteneinsicht zu erfahren. Es ist allerdings ausreichend, eine ladungsfähige Adresse anzugeben, also z.B. die des Arbeitgebers. Man sollte bei Rückfragen unter der Adresse erreichbar sein, es muss aber nicht die Adresse der eigenen Wohnung sein!
+Es ist für die angezeigte Person möglich, die Anschrift des Anzeigenden über die Akteneinsicht zu erfahren. Man sollte bei Rückfragen unter der Adresse erreichbar sein, es muss aber nicht zwingend die Adresse der eigenen Wohnung sein. Die Adresse muss nur "ladungsfähig" sein.
 
 ### Notwendige Schritte
 
