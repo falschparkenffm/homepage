@@ -5,12 +5,14 @@
     }
 
     /* Header Buttons on Startpage */
-    a.btn {
-        color: black;
-        background-color: #a0d7f7;
-    }
-    a.btn:hover {
-        background-color: #ced067;
+    :root {
+      --highlight: #a0d7f7;
+      --highlight-contrast: #000000;
+      --cover-text-color: #ced067;
+      --highlight-inverse-contrast: #000000;
+      --cover-title-text-shadow: 0;
+
+      --section-dark-bg-color: #a0d7f7;
     }
 
     /* Scroll Menu on Startpage */
@@ -25,9 +27,10 @@
     }
 
     /* Content / Sections */
-    .post-holder.odd {
+    .post-holder.dark {
         background: #a0d7f7;
         color: black;
+        border-top-color: #a0d7f7;
     }
     .post-holder {
         background: #f1f0eb;
