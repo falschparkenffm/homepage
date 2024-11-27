@@ -9,7 +9,7 @@ Jede Person kann eine "Verkehrsordnungswidrigkeitsanzeige" stellen. Ob man selbs
 
 Falls möglich ist das [Abschleppen](#abschleppen) unbedingt vorzuziehen, da nur hiermit die Behinderung/Gefährdung beseitig wird.
 
-Die Anschrift der meldenden Person wird bei der Akteneinsicht geschwärzt, aber der Vor- und Nachname sowie der Wohnort (ohne Anschrift) wird im Bußgeldbescheid genannt [<sup>2</sup>](#privatanzeige_quellen_2). Unklar ist bisher noch, ob auch die Gerichte bei Akteneinsicht die Privatanschrift schwärzen. Man sollte unter der angegebenen Adresse für Rückfragen erreichbar sein, es muss aber nicht zwingend die Adresse der eigenen Wohnung sein. Die Adresse muss nur "ladungsfähig" sein. Die Stadt Frankfurt lehnt aber die Nutzung von c/o-Anweisungen bisher ab.
+Die Anschrift der meldenden Person wird auch bei der Akteneinsicht durch die Falschparker geschwärzt[<sup>2</sup>](#privatanzeige_quellen_2), aber der Vor- und Nachname sowie der Wohnort (ohne Anschrift) werden im Bußgeldbescheid genannt. Unklar ist bisher noch, ob auch die Gerichte bei Akteneinsicht die Privatanschrift schwärzen. Man sollte unter der angegebenen Adresse für Rückfragen erreichbar sein, es muss aber nicht zwingend die Adresse der eigenen Wohnung sein. Die Adresse muss nur "ladungsfähig" sein. Die Stadt Frankfurt lehnt aber die Nutzung von c/o-Anweisungen bisher ab.
 
 ### Notwendige Schritte
 
