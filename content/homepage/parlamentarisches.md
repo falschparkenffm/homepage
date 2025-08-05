@@ -42,9 +42,9 @@ Wir unterstützen und beraten parteiübergreifend rund um das Thema Falschparker
 7.  Bericht des Magistrats zur Anfrage der FRANKFURTER-Fraktion ("Erlaubtes Gehwegparken in Frankfurt")[<sup>11</sup>](#parla_anfragen_quellen_11)  
     **Themen:** Details zum angeordneten Gehwegparkens und zur notwendigen Restbreite bei Gehwegen in Frankfurt
 
-8.  Bericht des Magistrats zur Anfrage der FRAKTION ("Anzahl von Ordnungswidrigkeitsanzeigen zu Falschparkern 2019 bis 2021"[<sup>12</sup>](#parla_anfragen_quellen_12)  
+8.  Bericht des Magistrats zur Anfrage der FRAKTION ("Anzahl von Ordnungswidrigkeitsanzeigen zu Falschparkern 2019 bis 2021")[<sup>12</sup>](#parla_anfragen_quellen_12)  
 
-9.  Bericht des Magistrats zur Anfrage der DIE LINKE.-Fraktion ("Anzeigeportal zu Falschparker*innen"[<sup>13</sup>](#parla_anfragen_quellen_13)  
+9.  Bericht des Magistrats zur Anfrage der DIE LINKE.-Fraktion ("Anzeigeportal zu Falschparker*innen")[<sup>13</sup>](#parla_anfragen_quellen_13)  
     **Themen:** Anzahl der privat über das neue Anzeigenportal eingereichten und bearbeiteten Ordnungswidrigkeiten, Anordnung von Fahrtenbüchern bei Auskunftsverweigerung der Halter, Hotspots
 
 <a href="#parla_anfragen_sonstige"><h3 id=parla_anfragen_sonstige>Sonstige Anfragen</h3></a>
