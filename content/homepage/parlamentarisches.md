@@ -43,7 +43,9 @@ Wir unterstützen und beraten parteiübergreifend rund um das Thema Falschparker
     **Themen:** Details zum angeordneten Gehwegparkens und zur notwendigen Restbreite bei Gehwegen in Frankfurt
 
 8.  Bericht des Magistrats zur Anfrage der FRAKTION ("Anzahl von Ordnungswidrigkeitsanzeigen zu Falschparkern 2019 bis 2021"[<sup>12</sup>](#parla_anfragen_quellen_12)  
-    **Themen:** Anzahl der privaten und städtischen Ordnungswidrigkeiten, Datenqualität bei Privatanzeigen, Quote der verjährten Anzeigen, Einstellungsquoten
+
+9.  Bericht des Magistrats zur Anfrage der DIE LINKE.-Fraktion ("Anzeigeportal zu Falschparker*innen"[<sup>13</sup>](#parla_anfragen_quellen_13)  
+    **Themen:** Anzahl der privat über das neue Anzeigenportal eingereichten und bearbeiteten Ordnungswidrigkeiten, Anordnung von Fahrtenbüchern bei Auskunftsverweigerung der Halter, Hotspots
 
 <a href="#parla_anfragen_sonstige"><h3 id=parla_anfragen_sonstige>Sonstige Anfragen</h3></a>
 
@@ -74,3 +76,5 @@ Wir unterstützen und beraten parteiübergreifend rund um das Thema Falschparker
 <sup id="parla_anfragen_quellen_11">11</sup> [Bericht B 220/2020 des Magistrats zur Anfrage der FRANKFURTER-Fraktion](https://www.stvv.frankfurt.de/PARLISLINK/DDW?W=DOK_NAME=%27B_228_2020%27), über [Web Archive](https://web.archive.org/web/*/https://www.stvv.frankfurt.de/PARLISLINK/DDW?W=DOK_NAME%3D'B_228_2020'), zuletzt geprüft am 26.07.2020 19 Uhr
 
 <sup id="parla_anfragen_quellen_12">12</sup> [Bericht B 182/2022 des Magistrats zur Anfrage der FRAKTION](https://www.stvv.frankfurt.de/PARLISLINK/DDW?W=DOK_NAME=%27B_182_2022%27), über [Web Archive](https://web.archive.org/web/*/https://web.archive.org/web/*/https://www.stvv.frankfurt.de/PARLISLINK/DDW?W=DOK_NAME='B_182_2022'), zuletzt geprüft am 02.10.2022 15 Uhr
+
+<sup id="parla_anfragen_quellen_13">13</sup> [Auskunftsersuchen A 363/2025 DIE LINKE.-Fraktion](https://www.stvv.frankfurt.de/PARLISLINK/DDW?W=DOK_NAME=%27A_363_2025%27), über [Web Archive](https://web.archive.org/web/*/https://web.archive.org/web/*/https://www.stvv.frankfurt.de/PARLISLINK/DDW?W=DOK_NAME='A_363_2025'), zuletzt geprüft am 05.08.2025 15 Uhr
