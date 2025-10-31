@@ -11,15 +11,16 @@ In Frankfurt gibt es, im Gegensatz zu den meisten anderen deutschen Städten, me
 
 <a href="#behörden_staedtische_verkehrspolizei"><h3 id=behörden_staedtische_verkehrspolizei>Städtische Verkehrspolizei</h3></a>
 
-Gehört zum Strassenverkehrsamt der Stadt Frankfurt. Die Hilfspolizist:innen sind zuständig für Dinge wie Falschparker. Außerhalb der Dienstzeiten, bei sonstiger Nichterreichbarkeit oder zu langer Wartezeit sollte die [Schutzpolizei](#schutzpolizei) kontakiert werden, diese übernimmt im Zweifelsfall die Aufträge. [<sup>1</sup>](#behörden_quellen_1)
+Gehört zum Strassenverkehrsamt der Stadt Frankfurt, nicht zum Ordnungamt. Die Hilfspolizist:innen sind vor allem für den "ruhenden Verkehr" zuständig, also Falschparker. Außerhalb der Dienstzeiten, bei sonstiger Nichterreichbarkeit oder zu langer Wartezeit sollte die [Schutzpolizei](#schutzpolizei) kontakiert werden, diese muss im Zweifelsfall die Aufträge übernehmen. [<sup>1</sup>](#behörden_quellen_1)
 
 Kontaktdaten [<sup>2</sup>](#behörden_quellen_2)  
-**Verkehrssicherheitstelefon: 069 212 36360**  
+**Telefon: <a href="tel:+496921236360">069 212 36360</a>**  
+E-Mail: <a href="mailto:verkehrspolizei@stadt-frankfurt.de">verkehrspolizei@stadt-frankfurt.de</a>  
 Dienstzeiten:  
 Montag bis Freitag 07:00 - 22:00 Uhr  
-Samstag 10:00 - 18:00 Uhr (in der Regel nur Innenstadt)
+Samstag 10:00 - 18:00 Uhr (in der Regel nur Innenstadt, rechtliche Grauzone zwischen Stadt und Landespolizei)
 
-Über den [Twitter-Account der Stadt Frankfurt](https://twitter.com/Stadt_FFM) werden auch generelle Anfragen zur städtischen Verkehrspolizei beantwortet, zu konkreten Einsätzen o.ä. können die Kolleg:innen dort allerdings normalerweise nichts sagen. Die städt. Verkehrspolizei hieß früher "Stadtpolizei-Verkehrssicherheit".
+Die städt. Verkehrspolizei hieß früher "Stadtpolizei-Verkehrssicherheit".
 
 
 <a href="#behörden_schutzpolizei"><h3 id=behörden_schutzpolizei>Schutzpolizei</h3></a>
