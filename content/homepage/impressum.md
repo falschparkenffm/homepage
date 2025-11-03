@@ -21,7 +21,7 @@ Anerkennung der Gemeinnützigkeit: Finanzamt Frankfurt Steuernummer 45 250 22973
 Umsatzsteuer-ID: DE220564610
 
 Verantwortlich gemäß § 6 MStV:  
-Susanne Neumann und Klaus Schmidt-Montfort  
+Alexander Schulz und Klaus Schmidt-Montfort  
 (beide Mitglied des Vorstands, Adresse und Kontakt wie oben)
 
 Bankverbindung  
