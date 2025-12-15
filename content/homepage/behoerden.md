@@ -25,7 +25,7 @@ Die städt. Verkehrspolizei hieß früher "Stadtpolizei-Verkehrssicherheit".
 
 <a href="#behörden_schutzpolizei"><h3 id=behörden_schutzpolizei>Schutzpolizei</h3></a>
 
-Meist nur "Polizei" genannt. Ist wie im Rest von Deutschland unabhängig von der Stadt und zuständig für alles, was mit Kriminalität und Gefahrenabwehr zu tun hat. Das Stadtgebiet ist in [16 Reviere](https://ppffm.polizei.hessen.de/ueber-uns/organisation/polizeireviere/) unterteilt. Meldungen können entweder per Telefon oder direkt vor Ort aufgegeben werden. Das für eine Adresse zuständige Revier kann [hier](https://www.polizei.hessen.de/meine-polizei-vor-ort/) ermittelt werden.
+Meist nur "Polizei" genannt. Ist wie im Rest von Deutschland unabhängig von der Stadt und zuständig für alles, was mit Kriminalität und Gefahrenabwehr zu tun hat. Das Stadtgebiet ist in [16 Reviere](https://ppffm.polizei.hessen.de/ueber-uns/organisation/polizeireviere/) unterteilt. Meldungen können entweder per Telefon oder direkt vor Ort aufgegeben werden. Das für eine Adresse zuständige Revier kann [hier](https://www.polizei.hessen.de/service/welche-polizei-vor-ort-ist-zustaendig) ermittelt werden.
 
 Die Kontaktdaten variieren je nach Revier, das Schema der Telefonnummer ist immer "069 7551 (Reviernummer mit zwei Ziffern) 00". Bei Gefahr kann auch die zentrale 110 gewählt werden: Eine Gefahr besteht regelmäßig, wenn ein:e Verkehrsteilnehmer:in von dem vorgesehen Sonderfahrstreifen z.B. auf die Fahrbahn ausweichen muss[<sup>4</sup>](#behörden_quellen_4).
 
